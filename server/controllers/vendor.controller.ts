@@ -2,6 +2,7 @@ import { Request, Response, NextFunction } from 'express';
 import mongoose from 'mongoose';
 import Vendor from '../models/Vendor';
 import Sector from '../models/Sector';
+import VendorUser from '../models/VendorUser';
 
 export const createVendor = async (req: Request, res: Response, next: NextFunction): Promise<void> => {
   const {
@@ -16,7 +17,7 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
     user
   } = req.body;
 
-  console.log("Incoming request body:", req.body); // Debug incoming payload
+  console.log("Incoming request body:", req.body);
 
   if (!user || !user.username) {
     res.status(400).json({ error: "User information is missing." });
@@ -68,8 +69,8 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
         [user.username]: {
           Name: user.name,
           Title: user.title,
-          Username: user.username,
-          Password: user.password // consider hashing later
+          Username: user.username
+          // Password intentionally excluded from public-facing vendor doc
         }
       }
     };
@@ -77,20 +78,31 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
     vendorsDict[newVendorIndex] = newVendor;
     zipNode[sector]["Vendors"] = vendorsDict;
 
-    console.log("Attempting update on:", parentId);
-    console.log("Setting path:", zipCode);
-    console.log("Zip Node Sample:", JSON.stringify(zipNode, null, 2));
-
+    // Update vendors collection
     const updateResult = await Vendor.collection.updateOne(
       { _id: parentId },
       { $set: { [zipCode]: zipNode } },
       { upsert: false }
     );
 
-    console.log("Update Result:", updateResult);
     if (updateResult.modifiedCount === 0) {
       console.warn("No document was modified. Check if _id exists and zipNode has data.");
     }
+
+    // Store full credentials in vendor_users
+    await VendorUser.collection.updateOne(
+      { Username: user.username },
+      {
+        $set: {
+          Username: user.username,
+          Password: user.password,
+          Name: user.name,
+          Title: user.title,
+          "Authorized VendorID": vendorID
+        }
+      },
+      { upsert: true }
+    );
 
     res.status(201).json({ vendorID });
   } catch (err) {
@@ -98,6 +110,8 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
     res.status(500).json({ error: "Error creating vendor." });
   }
 };
+
+
 
 
 

@@ -1,12 +1,41 @@
 // src/pages/LandingAuth.tsx
+import { useState } from "react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Card } from "@/components/ui/card"
 import { Label } from "@/components/ui/label"
 import { Link, useNavigate } from "react-router-dom"
+import axios from "axios"
 
 export default function LandingAuth() {
   const navigate = useNavigate()
+  const [formData, setFormData] = useState({ username: "", password: "" })
+  const [error, setError] = useState("")
+
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setFormData({ ...formData, [e.target.name]: e.target.value })
+  }
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault()
+    try {
+      const res = await axios.post("/api/vendor_users/login", {
+        username: formData.username,
+        password: formData.password
+      })
+
+      const { token, name, title, vendorID } = res.data
+      localStorage.setItem("authToken", token)
+      localStorage.setItem("vendorID", vendorID)
+      localStorage.setItem("userName", name)
+      localStorage.setItem("userTitle", title)
+
+      navigate("/dashboard/vendor")
+    } catch (err) {
+      console.error("Login failed:", err)
+      setError("Invalid username or password")
+    }
+  }
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 to-gray-800 flex items-center justify-center">
@@ -19,15 +48,17 @@ export default function LandingAuth() {
           </div>
           <h1 className="text-2xl font-semibold">Zenith</h1>
         </div>
-        <form className="space-y-4">
+
+        <form onSubmit={handleSubmit} className="space-y-4">
           <div>
-            <Label htmlFor="email">Username</Label>
-            <Input id="email" type="text" placeholder="Username" className="mt-1 bg-white/10 border-white/20 text-white" />
+            <Label htmlFor="username">Username</Label>
+            <Input id="username" name="username" type="text" value={formData.username} onChange={handleChange} placeholder="Username" className="mt-1 bg-white/10 border-white/20 text-white" />
           </div>
           <div>
             <Label htmlFor="password">Password</Label>
-            <Input id="password" type="password" placeholder="••••••••" className="mt-1 bg-white/10 border-white/20 text-white" />
+            <Input id="password" name="password" type="password" value={formData.password} onChange={handleChange} placeholder="••••••••" className="mt-1 bg-white/10 border-white/20 text-white" />
           </div>
+          {error && <p className="text-red-400 text-sm">{error}</p>}
           <div className="flex items-center justify-between text-sm mt-2">
             <label className="flex items-center space-x-2">
               <input type="checkbox" className="form-checkbox rounded" />
@@ -44,6 +75,7 @@ export default function LandingAuth() {
     </div>
   )
 }
+
 
 
 
