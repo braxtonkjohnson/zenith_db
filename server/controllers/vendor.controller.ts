@@ -13,7 +13,15 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
     address,
     phone,
     openHours,
+    user
   } = req.body;
+
+  console.log("Incoming request body:", req.body); // Debug incoming payload
+
+  if (!user || !user.username) {
+    res.status(400).json({ error: "User information is missing." });
+    return;
+  }
 
   try {
     const sectorDoc = await Sector.findOne({ _id: sector });
@@ -28,8 +36,9 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
       return;
     }
 
-    const parentId = vendorDoc._id;
-    const zipNode = vendorDoc.get(zipCode) || {};
+    const parentId: mongoose.Types.ObjectId = vendorDoc._id as mongoose.Types.ObjectId;
+    const fullDoc = vendorDoc.toObject() as Record<string, any>;
+    const zipNode = fullDoc[zipCode] || {};
 
     if (!zipNode[sector]) {
       zipNode[sector] = {
@@ -38,8 +47,8 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
       };
     }
 
-    const vendorsDict = zipNode[sector]["Vendors"];
-    const newVendorIndex = Object.keys(vendorsDict || {}).length.toString().padStart(6, '0');
+    const vendorsDict = zipNode[sector]["Vendors"] || {};
+    const newVendorIndex = Object.keys(vendorsDict).length.toString().padStart(6, '0');
     const locationIndex = "00";
     const vendorID = `${sector}-${zipCode}-${newVendorIndex}-${locationIndex}`;
 
@@ -54,6 +63,14 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
           "Open Hours": openHours,
           "VendorID": vendorID
         }
+      },
+      "Users": {
+        [user.username]: {
+          Name: user.name,
+          Title: user.title,
+          Username: user.username,
+          Password: user.password // consider hashing later
+        }
       }
     };
 
@@ -64,15 +81,15 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
     console.log("Setting path:", zipCode);
     console.log("Zip Node Sample:", JSON.stringify(zipNode, null, 2));
 
-
     const updateResult = await Vendor.collection.updateOne(
-      { [`${zipCode}.${sector}`]: { $exists: true} },
+      { _id: parentId },
       { $set: { [zipCode]: zipNode } },
-      {upsert: true}
+      { upsert: false }
     );
+
     console.log("Update Result:", updateResult);
     if (updateResult.modifiedCount === 0) {
-        console.warn("No document was modified. Check if _id exists and zipNode has data.")
+      console.warn("No document was modified. Check if _id exists and zipNode has data.");
     }
 
     res.status(201).json({ vendorID });
@@ -81,6 +98,18 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
     res.status(500).json({ error: "Error creating vendor." });
   }
 };
+
+
+
+
+
+  
+
+
+
+
+
+  
 
 
 

@@ -1,26 +1,18 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Routes, Route } from 'react-router-dom'
+import LandingAuth from './pages/LandingAuth'
+import Register from './pages/Register'
+import RegisterVendorStep1 from './pages/RegisterVendorStep1'
+import RegisterVendorStep2 from './pages/RegisterVendorStep2'
+import DashboardVendor from './pages/DashboardVendor'
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Routes>
+      <Route path="/" element={<LandingAuth />} />
+      <Route path="/register" element={<Register />} />
+      <Route path="/register/vendor/step1" element={<RegisterVendorStep1 />} />
+      <Route path="/register/vendor/step2" element={<RegisterVendorStep2 />} />
+      <Route path="/dashboard/vendor" element={<DashboardVendor />} />
+    </Routes>
+  )
 }
-
-export default App;

@@ -4,6 +4,7 @@ import dotenv from 'dotenv';
 import cors from 'cors';
 import vendorRoutes from './routes/vendor.routes';
 import productRoutes from './routes/product.routes'
+import userRoutes from './routes/user.routes'
 
 dotenv.config();
 
@@ -13,6 +14,7 @@ app.use(express.json());
 
 app.use('/api/vendors', vendorRoutes);
 app.use('/api/products', productRoutes)
+app.use('/api/users', userRoutes)
 
 const PORT = process.env.PORT || 3001;
 

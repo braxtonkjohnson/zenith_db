@@ -1,22 +1,8 @@
 import mongoose from 'mongoose';
 
-
 const VendorSchema = new mongoose.Schema({}, { strict: false });
 
-const SectorSchema = new mongoose.Schema({
-  SectorClassification: String,
-  Vendors: {
-    type: Map,
-    of: VendorSchema
-  }
-}, { _id: false });
+const Vendor = mongoose.model('Vendor', VendorSchema, 'vendors');
 
-const ZipSchema = new mongoose.Schema({
-  _id: String, // Zip code as the _id
-  Sectors: {
-    type: Map,
-    of: SectorSchema
-  }
-});
+export default Vendor;
 
-export default mongoose.model('Vendor', ZipSchema);
