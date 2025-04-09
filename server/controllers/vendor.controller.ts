@@ -70,7 +70,6 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
           Name: user.name,
           Title: user.title,
           Username: user.username
-          // Password intentionally excluded from public-facing vendor doc
         }
       }
     };
@@ -78,7 +77,6 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
     vendorsDict[newVendorIndex] = newVendor;
     zipNode[sector]["Vendors"] = vendorsDict;
 
-    // Update vendors collection
     const updateResult = await Vendor.collection.updateOne(
       { _id: parentId },
       { $set: { [zipCode]: zipNode } },
@@ -89,7 +87,6 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
       console.warn("No document was modified. Check if _id exists and zipNode has data.");
     }
 
-    // Store full credentials in vendor_users
     await VendorUser.collection.updateOne(
       { Username: user.username },
       {
@@ -98,7 +95,7 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
           Password: user.password,
           Name: user.name,
           Title: user.title,
-          "Authorized VendorID": vendorID
+          AuthorizedVendorID: vendorID
         }
       },
       { upsert: true }
@@ -110,6 +107,36 @@ export const createVendor = async (req: Request, res: Response, next: NextFuncti
     res.status(500).json({ error: "Error creating vendor." });
   }
 };
+
+// --- Efficient GET /:vendorID handler ---
+export const getVendorByID = async (req: Request, res: Response): Promise<void> => {
+  const { vendorID } = req.params;
+
+  try {
+    const [sector, zipCode, vendorIndex] = vendorID.split("-");
+    const vendorDoc = await Vendor.findOne({ [zipCode]: { $exists: true } });
+
+    if (!vendorDoc) {
+      res.status(404).json({ error: "Vendor document not found for zip code." });
+      return;
+    }
+
+    const doc = vendorDoc.toObject() as Record<string, any>;
+    const vendorData = doc?.[zipCode]?.[sector]?.["Vendors"]?.[vendorIndex];
+
+    if (!vendorData) {
+      res.status(404).json({ error: "Vendor not found at specified path." });
+      return;
+    }
+
+    res.status(200).json(vendorData);
+  } catch (err) {
+    console.error("Error fetching vendor by ID:", err);
+    res.status(500).json({ error: "Internal server error." });
+  }
+};
+
+
 
 
 

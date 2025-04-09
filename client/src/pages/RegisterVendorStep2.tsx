@@ -91,8 +91,16 @@ export default function RegisterVendorStep2() {
     }
 
     try {
-      await axios.post("/api/vendors/create", payload)
-      navigate("/dashboard/vendor")
+      const res = await axios.post("/api/vendors/create", payload)
+      const { vendorID } = res.data
+
+      if (!vendorID) throw new Error("VendorID not returned")
+
+      localStorage.setItem("vendorID", vendorID)
+      localStorage.setItem("userName", name)
+      localStorage.setItem("userTitle", title)
+
+      navigate(`/dashboard/vendor/${vendorID}`)
     } catch (err) {
       console.error("Error creating vendor:", err)
       setIsLoading(false)
@@ -177,6 +185,7 @@ export default function RegisterVendorStep2() {
     </div>
   )
 }
+
 
 
 

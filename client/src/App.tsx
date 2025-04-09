@@ -12,7 +12,7 @@ export default function App() {
       <Route path="/register" element={<Register />} />
       <Route path="/register/vendor/step1" element={<RegisterVendorStep1 />} />
       <Route path="/register/vendor/step2" element={<RegisterVendorStep2 />} />
-      <Route path="/dashboard/vendor" element={<DashboardVendor />} />
+      <Route path="/dashboard/vendor/:vendorID" element={<DashboardVendor />} />
     </Routes>
   )
 }
