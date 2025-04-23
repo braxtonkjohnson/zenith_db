@@ -16,7 +16,7 @@ export default function Sidebar() {
   return (
     <aside className="w-20 md:w-64 bg-slate-800 p-4 flex flex-col justify-between min-h-screen text-white">
       <div>
-        <div className="hidden md:block text-2xl font-bold mb-10 px-4">Zenith</div>
+        <img className= "hidden md:block mb-10 px-4 w-auto h-20 ml-10" src = "/public/zenith.png" alt = "Zenith Logo"></img>
         <nav className="flex flex-col items-center md:items-start gap-6 text-sm">
           <SidebarItem icon={<Home size={20} />} label="Home" onClick={() => navigate(`/dashboard/vendor/${vendorID}`)} />
           <SidebarItem icon={<Package size={20} />} label="Products & Services" onClick={() => navigate(`/dashboard/vendor/${vendorID}/products-services`)} />

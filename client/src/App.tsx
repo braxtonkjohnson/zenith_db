@@ -4,6 +4,7 @@ import Register from './pages/Register'
 import RegisterVendorStep1 from './pages/RegisterVendorStep1'
 import RegisterVendorStep2 from './pages/RegisterVendorStep2'
 import DashboardVendor from './pages/DashboardVendor'
+import ProServ from './pages/ProServ'
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
       <Route path="/register/vendor/step1" element={<RegisterVendorStep1 />} />
       <Route path="/register/vendor/step2" element={<RegisterVendorStep2 />} />
       <Route path="/dashboard/vendor/:vendorID" element={<DashboardVendor />} />
+      <Route path="/dashboard/vendor/:vendorID/products-services" element = {<ProServ/>} />
     </Routes>
   )
 }

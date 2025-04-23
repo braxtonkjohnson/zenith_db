@@ -63,12 +63,8 @@ export default function LandingAuth() {
       ) : (
         <Card className="w-full max-w-md p-8 rounded-xl shadow-lg bg-white/10 backdrop-blur-md border border-white/20 text-white">
           <div className="flex flex-col items-center mb-6">
-            <div className="bg-white/10 rounded-full p-4 border border-white/20 mb-4">
-              <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8m-18 8h18" />
-              </svg>
-            </div>
-            <h1 className="text-2xl font-semibold">Zenith</h1>
+            <img className= "hidden md:block mb-10 px-4 w-auto h-20 ml-4" src = "/public/zenith.png" ></img>
+            
           </div>
 
           <form onSubmit={handleSubmit} className="space-y-4">
