@@ -1,0 +1,5800 @@
+[{
+  "_id": {
+    "$oid": "67ef291b87e619ba7f357064"
+  },
+  "AL": {
+    "Class Name": "Alcohol Products",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Domestic Lager Beer"
+      },
+      "0001": {
+        "Description": "Imported Lager Beer"
+      },
+      "0002": {
+        "Description": "IPA Beer"
+      },
+      "0003": {
+        "Description": "Stout Beer"
+      },
+      "0004": {
+        "Description": "Pilsner Beer"
+      },
+      "0005": {
+        "Description": "Seasonal Beer"
+      },
+      "0006": {
+        "Description": "Craft Beer"
+      },
+      "0007": {
+        "Description": "Wheat Beer"
+      },
+      "0008": {
+        "Description": "Sour Beer"
+      },
+      "0009": {
+        "Description": "Red Wine"
+      },
+      "0010": {
+        "Description": "White Wine"
+      },
+      "0011": {
+        "Description": "Rosé Wine"
+      },
+      "0012": {
+        "Description": "Sparkling Wine"
+      },
+      "0013": {
+        "Description": "Champagne Wine"
+      },
+      "0014": {
+        "Description": "Dessert Wine"
+      },
+      "0015": {
+        "Description": "Fortified Wine"
+      },
+      "0016": {
+        "Description": "Natural Wine"
+      },
+      "0017": {
+        "Description": "Vodka Spirits"
+      },
+      "0018": {
+        "Description": "Whiskey Spirits"
+      },
+      "0019": {
+        "Description": "Bourbon Spirits"
+      },
+      "0020": {
+        "Description": "Scotch Spirits"
+      },
+      "0021": {
+        "Description": "Rum Spirits"
+      },
+      "0022": {
+        "Description": "Tequila Spirits"
+      },
+      "0023": {
+        "Description": "Gin Spirits"
+      },
+      "0024": {
+        "Description": "Brandy Spirits"
+      },
+      "0025": {
+        "Description": "Absinthe Spirits"
+      },
+      "0026": {
+        "Description": "House-Made Cocktails"
+      },
+      "0027": {
+        "Description": "Pre-Mixed Cocktails"
+      },
+      "0028": {
+        "Description": "Canned Cocktails"
+      },
+      "0029": {
+        "Description": "Seasonal Special Cocktails"
+      },
+      "0030": {
+        "Description": "Signature Cocktails"
+      },
+      "0031": {
+        "Description": "Flavored Shots"
+      },
+      "0032": {
+        "Description": "Classic Shots"
+      },
+      "0033": {
+        "Description": "Layered Shots"
+      },
+      "0034": {
+        "Description": "Fireball Shots"
+      },
+      "0035": {
+        "Description": "Jäger Shots"
+      },
+      "0036": {
+        "Description": "Tequila Shots"
+      },
+      "0037": {
+        "Description": "Seltzer Other"
+      },
+      "0038": {
+        "Description": "Malt Beverage Other"
+      },
+      "0039": {
+        "Description": "Non-Alcoholic Beer Other"
+      },
+      "0040": {
+        "Description": "Hard Cider Other"
+      },
+      "0041": {
+        "Description": "Keg Other"
+      },
+      "0042": {
+        "Description": "Bulk Other"
+      },
+      "0043": {
+        "Description": "Tasting Flight Other"
+      },
+      "0044": {
+        "Description": "Limited Edition Other"
+      },
+      "0045": {
+        "Description": "Special Reserve Item 45"
+      },
+      "0046": {
+        "Description": "Special Reserve Item 46"
+      },
+      "0047": {
+        "Description": "Special Reserve Item 47"
+      },
+      "0048": {
+        "Description": "Special Reserve Item 48"
+      },
+      "0049": {
+        "Description": "Special Reserve Item 49"
+      },
+      "0050": {
+        "Description": "Special Reserve Item 50"
+      },
+      "0051": {
+        "Description": "Special Reserve Item 51"
+      },
+      "0052": {
+        "Description": "Special Reserve Item 52"
+      },
+      "0053": {
+        "Description": "Special Reserve Item 53"
+      },
+      "0054": {
+        "Description": "Special Reserve Item 54"
+      },
+      "0055": {
+        "Description": "Special Reserve Item 55"
+      },
+      "0056": {
+        "Description": "Special Reserve Item 56"
+      },
+      "0057": {
+        "Description": "Special Reserve Item 57"
+      },
+      "0058": {
+        "Description": "Special Reserve Item 58"
+      },
+      "0059": {
+        "Description": "Special Reserve Item 59"
+      },
+      "0060": {
+        "Description": "Special Reserve Item 60"
+      },
+      "0061": {
+        "Description": "Special Reserve Item 61"
+      },
+      "0062": {
+        "Description": "Special Reserve Item 62"
+      },
+      "0063": {
+        "Description": "Special Reserve Item 63"
+      },
+      "0064": {
+        "Description": "Special Reserve Item 64"
+      },
+      "0065": {
+        "Description": "Special Reserve Item 65"
+      },
+      "0066": {
+        "Description": "Special Reserve Item 66"
+      },
+      "0067": {
+        "Description": "Special Reserve Item 67"
+      },
+      "0068": {
+        "Description": "Special Reserve Item 68"
+      },
+      "0069": {
+        "Description": "Special Reserve Item 69"
+      },
+      "0070": {
+        "Description": "Special Reserve Item 70"
+      },
+      "0071": {
+        "Description": "Special Reserve Item 71"
+      },
+      "0072": {
+        "Description": "Special Reserve Item 72"
+      },
+      "0073": {
+        "Description": "Special Reserve Item 73"
+      },
+      "0074": {
+        "Description": "Special Reserve Item 74"
+      },
+      "0075": {
+        "Description": "Special Reserve Item 75"
+      },
+      "0076": {
+        "Description": "Special Reserve Item 76"
+      },
+      "0077": {
+        "Description": "Special Reserve Item 77"
+      },
+      "0078": {
+        "Description": "Special Reserve Item 78"
+      },
+      "0079": {
+        "Description": "Special Reserve Item 79"
+      },
+      "0080": {
+        "Description": "Special Reserve Item 80"
+      },
+      "0081": {
+        "Description": "Special Reserve Item 81"
+      },
+      "0082": {
+        "Description": "Special Reserve Item 82"
+      },
+      "0083": {
+        "Description": "Special Reserve Item 83"
+      },
+      "0084": {
+        "Description": "Special Reserve Item 84"
+      },
+      "0085": {
+        "Description": "Special Reserve Item 85"
+      },
+      "0086": {
+        "Description": "Special Reserve Item 86"
+      },
+      "0087": {
+        "Description": "Special Reserve Item 87"
+      },
+      "0088": {
+        "Description": "Special Reserve Item 88"
+      },
+      "0089": {
+        "Description": "Special Reserve Item 89"
+      },
+      "0090": {
+        "Description": "Special Reserve Item 90"
+      },
+      "0091": {
+        "Description": "Special Reserve Item 91"
+      },
+      "0092": {
+        "Description": "Special Reserve Item 92"
+      },
+      "0093": {
+        "Description": "Special Reserve Item 93"
+      },
+      "0094": {
+        "Description": "Special Reserve Item 94"
+      },
+      "0095": {
+        "Description": "Special Reserve Item 95"
+      },
+      "0096": {
+        "Description": "Special Reserve Item 96"
+      },
+      "0097": {
+        "Description": "Special Reserve Item 97"
+      },
+      "0098": {
+        "Description": "Special Reserve Item 98"
+      },
+      "0099": {
+        "Description": "Special Reserve Item 99"
+      }
+    }
+  },
+  "CL": {
+    "Class Name": "Clothing & Apparel",
+    "Detail Classifier": {
+      "0000": {
+        "Description": "T-Shirts - Tops"
+      },
+      "0001": {
+        "Description": "Tank Tops - Tops"
+      },
+      "0002": {
+        "Description": "Long Sleeve Shirts - Tops"
+      },
+      "0003": {
+        "Description": "Blouses - Tops"
+      },
+      "0004": {
+        "Description": "Polos - Tops"
+      },
+      "0005": {
+        "Description": "Crop Tops - Tops"
+      },
+      "0006": {
+        "Description": "Henleys - Tops"
+      },
+      "0007": {
+        "Description": "Hoodies - Outerwear"
+      },
+      "0008": {
+        "Description": "Sweatshirts - Outerwear"
+      },
+      "0009": {
+        "Description": "Jackets - Outerwear"
+      },
+      "0010": {
+        "Description": "Coats - Outerwear"
+      },
+      "0011": {
+        "Description": "Vests - Outerwear"
+      },
+      "0012": {
+        "Description": "Rainwear - Outerwear"
+      },
+      "0013": {
+        "Description": "Jeans - Bottoms"
+      },
+      "0014": {
+        "Description": "Chinos - Bottoms"
+      },
+      "0015": {
+        "Description": "Shorts - Bottoms"
+      },
+      "0016": {
+        "Description": "Joggers - Bottoms"
+      },
+      "0017": {
+        "Description": "Leggings - Bottoms"
+      },
+      "0018": {
+        "Description": "Skirts - Bottoms"
+      },
+      "0019": {
+        "Description": "Cargo Pants - Bottoms"
+      },
+      "0020": {
+        "Description": "Sneakers - Footwear"
+      },
+      "0021": {
+        "Description": "Boots - Footwear"
+      },
+      "0022": {
+        "Description": "Sandals - Footwear"
+      },
+      "0023": {
+        "Description": "Dress Shoes - Footwear"
+      },
+      "0024": {
+        "Description": "Slippers - Footwear"
+      },
+      "0025": {
+        "Description": "Slides - Footwear"
+      },
+      "0026": {
+        "Description": "Hats - Accessories"
+      },
+      "0027": {
+        "Description": "Beanies - Accessories"
+      },
+      "0028": {
+        "Description": "Caps - Accessories"
+      },
+      "0029": {
+        "Description": "Socks - Accessories"
+      },
+      "0030": {
+        "Description": "Belts - Accessories"
+      },
+      "0031": {
+        "Description": "Scarves - Accessories"
+      },
+      "0032": {
+        "Description": "Gloves - Accessories"
+      },
+      "0033": {
+        "Description": "Athletic Shirts - Activewear"
+      },
+      "0034": {
+        "Description": "Running Shorts - Activewear"
+      },
+      "0035": {
+        "Description": "Gym Leggings - Activewear"
+      },
+      "0036": {
+        "Description": "Sports Bras - Activewear"
+      },
+      "0037": {
+        "Description": "Track Pants - Activewear"
+      },
+      "0038": {
+        "Description": "Compression Gear - Activewear"
+      },
+      "0039": {
+        "Description": "Suits - Formalwear"
+      },
+      "0040": {
+        "Description": "Dress Shirts - Formalwear"
+      },
+      "0041": {
+        "Description": "Blazers - Formalwear"
+      },
+      "0042": {
+        "Description": "Ties - Formalwear"
+      },
+      "0043": {
+        "Description": "Dress Pants - Formalwear"
+      },
+      "0044": {
+        "Description": "Boxers - Undergarments"
+      },
+      "0045": {
+        "Description": "Briefs - Undergarments"
+      },
+      "0046": {
+        "Description": "Bras - Undergarments"
+      },
+      "0047": {
+        "Description": "Underwear - Undergarments"
+      },
+      "0048": {
+        "Description": "Thermal Wear - Undergarments"
+      },
+      "0049": {
+        "Description": "Swimwear - Seasonal"
+      },
+      "0050": {
+        "Description": "Holiday Sweaters - Seasonal"
+      },
+      "0051": {
+        "Description": "Beachwear - Seasonal"
+      },
+      "0052": {
+        "Description": "Winter Gear - Seasonal"
+      },
+      "0053": {
+        "Description": "Branded Merch - Specialty"
+      },
+      "0054": {
+        "Description": "Graphic Tees - Specialty"
+      },
+      "0055": {
+        "Description": "Limited Edition Apparel - Specialty"
+      },
+      "0056": {
+        "Description": "Event Apparel - Specialty"
+      },
+      "0057": {
+        "Description": "Specialty Apparel Item 57"
+      },
+      "0058": {
+        "Description": "Specialty Apparel Item 58"
+      },
+      "0059": {
+        "Description": "Specialty Apparel Item 59"
+      },
+      "0060": {
+        "Description": "Specialty Apparel Item 60"
+      },
+      "0061": {
+        "Description": "Specialty Apparel Item 61"
+      },
+      "0062": {
+        "Description": "Specialty Apparel Item 62"
+      },
+      "0063": {
+        "Description": "Specialty Apparel Item 63"
+      },
+      "0064": {
+        "Description": "Specialty Apparel Item 64"
+      },
+      "0065": {
+        "Description": "Specialty Apparel Item 65"
+      },
+      "0066": {
+        "Description": "Specialty Apparel Item 66"
+      },
+      "0067": {
+        "Description": "Specialty Apparel Item 67"
+      },
+      "0068": {
+        "Description": "Specialty Apparel Item 68"
+      },
+      "0069": {
+        "Description": "Specialty Apparel Item 69"
+      },
+      "0070": {
+        "Description": "Specialty Apparel Item 70"
+      },
+      "0071": {
+        "Description": "Specialty Apparel Item 71"
+      },
+      "0072": {
+        "Description": "Specialty Apparel Item 72"
+      },
+      "0073": {
+        "Description": "Specialty Apparel Item 73"
+      },
+      "0074": {
+        "Description": "Specialty Apparel Item 74"
+      },
+      "0075": {
+        "Description": "Specialty Apparel Item 75"
+      },
+      "0076": {
+        "Description": "Specialty Apparel Item 76"
+      },
+      "0077": {
+        "Description": "Specialty Apparel Item 77"
+      },
+      "0078": {
+        "Description": "Specialty Apparel Item 78"
+      },
+      "0079": {
+        "Description": "Specialty Apparel Item 79"
+      },
+      "0080": {
+        "Description": "Specialty Apparel Item 80"
+      },
+      "0081": {
+        "Description": "Specialty Apparel Item 81"
+      },
+      "0082": {
+        "Description": "Specialty Apparel Item 82"
+      },
+      "0083": {
+        "Description": "Specialty Apparel Item 83"
+      },
+      "0084": {
+        "Description": "Specialty Apparel Item 84"
+      },
+      "0085": {
+        "Description": "Specialty Apparel Item 85"
+      },
+      "0086": {
+        "Description": "Specialty Apparel Item 86"
+      },
+      "0087": {
+        "Description": "Specialty Apparel Item 87"
+      },
+      "0088": {
+        "Description": "Specialty Apparel Item 88"
+      },
+      "0089": {
+        "Description": "Specialty Apparel Item 89"
+      },
+      "0090": {
+        "Description": "Specialty Apparel Item 90"
+      },
+      "0091": {
+        "Description": "Specialty Apparel Item 91"
+      },
+      "0092": {
+        "Description": "Specialty Apparel Item 92"
+      },
+      "0093": {
+        "Description": "Specialty Apparel Item 93"
+      },
+      "0094": {
+        "Description": "Specialty Apparel Item 94"
+      },
+      "0095": {
+        "Description": "Specialty Apparel Item 95"
+      },
+      "0096": {
+        "Description": "Specialty Apparel Item 96"
+      },
+      "0097": {
+        "Description": "Specialty Apparel Item 97"
+      },
+      "0098": {
+        "Description": "Specialty Apparel Item 98"
+      },
+      "0099": {
+        "Description": "Specialty Apparel Item 99"
+      }
+    }
+  },
+  "DN": {
+    "Class Name": "Donations",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Health Foundations - Charities"
+      },
+      "0001": {
+        "Description": "Education Initiatives - Charities"
+      },
+      "0002": {
+        "Description": "Hunger Relief - Charities"
+      },
+      "0003": {
+        "Description": "Animal Welfare - Charities"
+      },
+      "0004": {
+        "Description": "Environmental Causes - Charities"
+      },
+      "0005": {
+        "Description": "Faith-Based Charities - Charities"
+      },
+      "0006": {
+        "Description": "Local Nonprofits - Community"
+      },
+      "0007": {
+        "Description": "Community Centers - Community"
+      },
+      "0008": {
+        "Description": "Youth Programs - Community"
+      },
+      "0009": {
+        "Description": "Homeless Shelters - Community"
+      },
+      "0010": {
+        "Description": "Cultural Initiatives - Community"
+      },
+      "0011": {
+        "Description": "Medical Research - Research"
+      },
+      "0012": {
+        "Description": "Cancer Research - Research"
+      },
+      "0013": {
+        "Description": "Mental Health Research - Research"
+      },
+      "0014": {
+        "Description": "Technology Research - Research"
+      },
+      "0015": {
+        "Description": "Climate Research - Research"
+      },
+      "0016": {
+        "Description": "Emergency Aid - Disaster Relief"
+      },
+      "0017": {
+        "Description": "Flood Relief - Disaster Relief"
+      },
+      "0018": {
+        "Description": "Wildfire Relief - Disaster Relief"
+      },
+      "0019": {
+        "Description": "Earthquake Relief - Disaster Relief"
+      },
+      "0020": {
+        "Description": "War Relief - Disaster Relief"
+      },
+      "0021": {
+        "Description": "Human Rights - Advocacy"
+      },
+      "0022": {
+        "Description": "LGBTQ+ Rights - Advocacy"
+      },
+      "0023": {
+        "Description": "Disability Advocacy - Advocacy"
+      },
+      "0024": {
+        "Description": "Women's Rights - Advocacy"
+      },
+      "0025": {
+        "Description": "Veterans Support - Advocacy"
+      },
+      "0026": {
+        "Description": "School Fundraisers - Education"
+      },
+      "0027": {
+        "Description": "University Donations - Education"
+      },
+      "0028": {
+        "Description": "Scholarship Funds - Education"
+      },
+      "0029": {
+        "Description": "Library Donations - Education"
+      },
+      "0030": {
+        "Description": "Church Tithes - Religious"
+      },
+      "0031": {
+        "Description": "Mission Donations - Religious"
+      },
+      "0032": {
+        "Description": "Religious School Support - Religious"
+      },
+      "0033": {
+        "Description": "Mosque/Temple Donations - Religious"
+      },
+      "0034": {
+        "Description": "Global Aid Organizations - International"
+      },
+      "0035": {
+        "Description": "International Development - International"
+      },
+      "0036": {
+        "Description": "UN Programs - International"
+      },
+      "0037": {
+        "Description": "Refugee Support - International"
+      },
+      "0038": {
+        "Description": "Crowdfunding Campaigns - Online Giving"
+      },
+      "0039": {
+        "Description": "Patreon/Content Creator Support - Online Giving"
+      },
+      "0040": {
+        "Description": "Streaming Donations - Online Giving"
+      },
+      "0041": {
+        "Description": "Employee Matching - Corporate Giving"
+      },
+      "0042": {
+        "Description": "Corporate Foundations - Corporate Giving"
+      },
+      "0043": {
+        "Description": "CSR Contributions - Corporate Giving"
+      },
+      "0044": {
+        "Description": "Special Donation Type 44"
+      },
+      "0045": {
+        "Description": "Special Donation Type 45"
+      },
+      "0046": {
+        "Description": "Special Donation Type 46"
+      },
+      "0047": {
+        "Description": "Special Donation Type 47"
+      },
+      "0048": {
+        "Description": "Special Donation Type 48"
+      },
+      "0049": {
+        "Description": "Special Donation Type 49"
+      },
+      "0050": {
+        "Description": "Special Donation Type 50"
+      },
+      "0051": {
+        "Description": "Special Donation Type 51"
+      },
+      "0052": {
+        "Description": "Special Donation Type 52"
+      },
+      "0053": {
+        "Description": "Special Donation Type 53"
+      },
+      "0054": {
+        "Description": "Special Donation Type 54"
+      },
+      "0055": {
+        "Description": "Special Donation Type 55"
+      },
+      "0056": {
+        "Description": "Special Donation Type 56"
+      },
+      "0057": {
+        "Description": "Special Donation Type 57"
+      },
+      "0058": {
+        "Description": "Special Donation Type 58"
+      },
+      "0059": {
+        "Description": "Special Donation Type 59"
+      },
+      "0060": {
+        "Description": "Special Donation Type 60"
+      },
+      "0061": {
+        "Description": "Special Donation Type 61"
+      },
+      "0062": {
+        "Description": "Special Donation Type 62"
+      },
+      "0063": {
+        "Description": "Special Donation Type 63"
+      },
+      "0064": {
+        "Description": "Special Donation Type 64"
+      },
+      "0065": {
+        "Description": "Special Donation Type 65"
+      },
+      "0066": {
+        "Description": "Special Donation Type 66"
+      },
+      "0067": {
+        "Description": "Special Donation Type 67"
+      },
+      "0068": {
+        "Description": "Special Donation Type 68"
+      },
+      "0069": {
+        "Description": "Special Donation Type 69"
+      },
+      "0070": {
+        "Description": "Special Donation Type 70"
+      },
+      "0071": {
+        "Description": "Special Donation Type 71"
+      },
+      "0072": {
+        "Description": "Special Donation Type 72"
+      },
+      "0073": {
+        "Description": "Special Donation Type 73"
+      },
+      "0074": {
+        "Description": "Special Donation Type 74"
+      },
+      "0075": {
+        "Description": "Special Donation Type 75"
+      },
+      "0076": {
+        "Description": "Special Donation Type 76"
+      },
+      "0077": {
+        "Description": "Special Donation Type 77"
+      },
+      "0078": {
+        "Description": "Special Donation Type 78"
+      },
+      "0079": {
+        "Description": "Special Donation Type 79"
+      },
+      "0080": {
+        "Description": "Special Donation Type 80"
+      },
+      "0081": {
+        "Description": "Special Donation Type 81"
+      },
+      "0082": {
+        "Description": "Special Donation Type 82"
+      },
+      "0083": {
+        "Description": "Special Donation Type 83"
+      },
+      "0084": {
+        "Description": "Special Donation Type 84"
+      },
+      "0085": {
+        "Description": "Special Donation Type 85"
+      },
+      "0086": {
+        "Description": "Special Donation Type 86"
+      },
+      "0087": {
+        "Description": "Special Donation Type 87"
+      },
+      "0088": {
+        "Description": "Special Donation Type 88"
+      },
+      "0089": {
+        "Description": "Special Donation Type 89"
+      },
+      "0090": {
+        "Description": "Special Donation Type 90"
+      },
+      "0091": {
+        "Description": "Special Donation Type 91"
+      },
+      "0092": {
+        "Description": "Special Donation Type 92"
+      },
+      "0093": {
+        "Description": "Special Donation Type 93"
+      },
+      "0094": {
+        "Description": "Special Donation Type 94"
+      },
+      "0095": {
+        "Description": "Special Donation Type 95"
+      },
+      "0096": {
+        "Description": "Special Donation Type 96"
+      },
+      "0097": {
+        "Description": "Special Donation Type 97"
+      },
+      "0098": {
+        "Description": "Special Donation Type 98"
+      },
+      "0099": {
+        "Description": "Special Donation Type 99"
+      }
+    }
+  },
+  "ED": {
+    "Class Name": "Education",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Primary School Tuition - Academic Programs"
+      },
+      "0001": {
+        "Description": "High School Tuition - Academic Programs"
+      },
+      "0002": {
+        "Description": "College Tuition - Academic Programs"
+      },
+      "0003": {
+        "Description": "Graduate Programs - Academic Programs"
+      },
+      "0004": {
+        "Description": "Vocational Training - Academic Programs"
+      },
+      "0005": {
+        "Description": "Math Tutoring - Tutoring Services"
+      },
+      "0006": {
+        "Description": "Science Tutoring - Tutoring Services"
+      },
+      "0007": {
+        "Description": "Reading/Writing Help - Tutoring Services"
+      },
+      "0008": {
+        "Description": "SAT/ACT Prep - Tutoring Services"
+      },
+      "0009": {
+        "Description": "College Admissions Coaching - Tutoring Services"
+      },
+      "0010": {
+        "Description": "E-learning Platforms - Online Learning"
+      },
+      "0011": {
+        "Description": "MOOCs - Online Learning"
+      },
+      "0012": {
+        "Description": "Skill Development Subscriptions - Online Learning"
+      },
+      "0013": {
+        "Description": "Coding Bootcamps - Online Learning"
+      },
+      "0014": {
+        "Description": "Language Learning Apps - Online Learning"
+      },
+      "0015": {
+        "Description": "STEM Courses - Courses"
+      },
+      "0016": {
+        "Description": "Business Courses - Courses"
+      },
+      "0017": {
+        "Description": "Creative Arts Courses - Courses"
+      },
+      "0018": {
+        "Description": "Music Lessons - Courses"
+      },
+      "0019": {
+        "Description": "Driving School - Courses"
+      },
+      "0020": {
+        "Description": "Textbooks - Books & Materials"
+      },
+      "0021": {
+        "Description": "Workbooks - Books & Materials"
+      },
+      "0022": {
+        "Description": "Reference Books - Books & Materials"
+      },
+      "0023": {
+        "Description": "Lab Supplies - Books & Materials"
+      },
+      "0024": {
+        "Description": "Digital Learning Materials - Books & Materials"
+      },
+      "0025": {
+        "Description": "Software Licenses - Educational Tools"
+      },
+      "0026": {
+        "Description": "LMS Subscriptions - Educational Tools"
+      },
+      "0027": {
+        "Description": "Tutoring Platforms - Educational Tools"
+      },
+      "0028": {
+        "Description": "Test Prep Software - Educational Tools"
+      },
+      "0029": {
+        "Description": "Language Tools - Educational Tools"
+      },
+      "0030": {
+        "Description": "Professional Certificates - Certifications"
+      },
+      "0031": {
+        "Description": "Continuing Education - Certifications"
+      },
+      "0032": {
+        "Description": "Exam Fees - Certifications"
+      },
+      "0033": {
+        "Description": "Online Course Certificates - Certifications"
+      },
+      "0034": {
+        "Description": "Preschool - Youth Education"
+      },
+      "0035": {
+        "Description": "After-School Programs - Youth Education"
+      },
+      "0036": {
+        "Description": "Summer Camps - Youth Education"
+      },
+      "0037": {
+        "Description": "Daycare Education - Youth Education"
+      },
+      "0038": {
+        "Description": "Montessori Programs - Youth Education"
+      },
+      "0039": {
+        "Description": "GED Programs - Adult Learning"
+      },
+      "0040": {
+        "Description": "ESL Classes - Adult Learning"
+      },
+      "0041": {
+        "Description": "Workforce Development - Adult Learning"
+      },
+      "0042": {
+        "Description": "Trade School - Adult Learning"
+      },
+      "0043": {
+        "Description": "Lifelong Learning - Adult Learning"
+      },
+      "0044": {
+        "Description": "Webinars - Workshops & Events"
+      },
+      "0045": {
+        "Description": "Seminars - Workshops & Events"
+      },
+      "0046": {
+        "Description": "Educational Conferences - Workshops & Events"
+      },
+      "0047": {
+        "Description": "Field Trips - Workshops & Events"
+      },
+      "0048": {
+        "Description": "Community Education Events - Workshops & Events"
+      },
+      "0049": {
+        "Description": "Special Education Item 49"
+      },
+      "0050": {
+        "Description": "Special Education Item 50"
+      },
+      "0051": {
+        "Description": "Special Education Item 51"
+      },
+      "0052": {
+        "Description": "Special Education Item 52"
+      },
+      "0053": {
+        "Description": "Special Education Item 53"
+      },
+      "0054": {
+        "Description": "Special Education Item 54"
+      },
+      "0055": {
+        "Description": "Special Education Item 55"
+      },
+      "0056": {
+        "Description": "Special Education Item 56"
+      },
+      "0057": {
+        "Description": "Special Education Item 57"
+      },
+      "0058": {
+        "Description": "Special Education Item 58"
+      },
+      "0059": {
+        "Description": "Special Education Item 59"
+      },
+      "0060": {
+        "Description": "Special Education Item 60"
+      },
+      "0061": {
+        "Description": "Special Education Item 61"
+      },
+      "0062": {
+        "Description": "Special Education Item 62"
+      },
+      "0063": {
+        "Description": "Special Education Item 63"
+      },
+      "0064": {
+        "Description": "Special Education Item 64"
+      },
+      "0065": {
+        "Description": "Special Education Item 65"
+      },
+      "0066": {
+        "Description": "Special Education Item 66"
+      },
+      "0067": {
+        "Description": "Special Education Item 67"
+      },
+      "0068": {
+        "Description": "Special Education Item 68"
+      },
+      "0069": {
+        "Description": "Special Education Item 69"
+      },
+      "0070": {
+        "Description": "Special Education Item 70"
+      },
+      "0071": {
+        "Description": "Special Education Item 71"
+      },
+      "0072": {
+        "Description": "Special Education Item 72"
+      },
+      "0073": {
+        "Description": "Special Education Item 73"
+      },
+      "0074": {
+        "Description": "Special Education Item 74"
+      },
+      "0075": {
+        "Description": "Special Education Item 75"
+      },
+      "0076": {
+        "Description": "Special Education Item 76"
+      },
+      "0077": {
+        "Description": "Special Education Item 77"
+      },
+      "0078": {
+        "Description": "Special Education Item 78"
+      },
+      "0079": {
+        "Description": "Special Education Item 79"
+      },
+      "0080": {
+        "Description": "Special Education Item 80"
+      },
+      "0081": {
+        "Description": "Special Education Item 81"
+      },
+      "0082": {
+        "Description": "Special Education Item 82"
+      },
+      "0083": {
+        "Description": "Special Education Item 83"
+      },
+      "0084": {
+        "Description": "Special Education Item 84"
+      },
+      "0085": {
+        "Description": "Special Education Item 85"
+      },
+      "0086": {
+        "Description": "Special Education Item 86"
+      },
+      "0087": {
+        "Description": "Special Education Item 87"
+      },
+      "0088": {
+        "Description": "Special Education Item 88"
+      },
+      "0089": {
+        "Description": "Special Education Item 89"
+      },
+      "0090": {
+        "Description": "Special Education Item 90"
+      },
+      "0091": {
+        "Description": "Special Education Item 91"
+      },
+      "0092": {
+        "Description": "Special Education Item 92"
+      },
+      "0093": {
+        "Description": "Special Education Item 93"
+      },
+      "0094": {
+        "Description": "Special Education Item 94"
+      },
+      "0095": {
+        "Description": "Special Education Item 95"
+      },
+      "0096": {
+        "Description": "Special Education Item 96"
+      },
+      "0097": {
+        "Description": "Special Education Item 97"
+      },
+      "0098": {
+        "Description": "Special Education Item 98"
+      },
+      "0099": {
+        "Description": "Special Education Item 99"
+      }
+    }
+  },
+  "EN": {
+    "Class Name": "Entertainment",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Cinema Tickets - Movies & Theaters"
+      },
+      "0001": {
+        "Description": "IMAX Shows - Movies & Theaters"
+      },
+      "0002": {
+        "Description": "3D Movie Access - Movies & Theaters"
+      },
+      "0003": {
+        "Description": "Drive-In Theater - Movies & Theaters"
+      },
+      "0004": {
+        "Description": "Theater Concessions - Movies & Theaters"
+      },
+      "0005": {
+        "Description": "Concert Tickets - Live Events"
+      },
+      "0006": {
+        "Description": "Comedy Shows - Live Events"
+      },
+      "0007": {
+        "Description": "Broadway Shows - Live Events"
+      },
+      "0008": {
+        "Description": "Local Performances - Live Events"
+      },
+      "0009": {
+        "Description": "Music Festivals - Live Events"
+      },
+      "0010": {
+        "Description": "Arcade Credits - Gaming"
+      },
+      "0011": {
+        "Description": "Video Game Purchases - Gaming"
+      },
+      "0012": {
+        "Description": "In-Game Currency - Gaming"
+      },
+      "0013": {
+        "Description": "Board Games - Gaming"
+      },
+      "0014": {
+        "Description": "Escape Room Entry - Gaming"
+      },
+      "0015": {
+        "Description": "TV Streaming Subscriptions - Streaming Services"
+      },
+      "0016": {
+        "Description": "Music Streaming - Streaming Services"
+      },
+      "0017": {
+        "Description": "Gaming Subscriptions - Streaming Services"
+      },
+      "0018": {
+        "Description": "Live Sports Access - Streaming Services"
+      },
+      "0019": {
+        "Description": "Premium Add-ons - Streaming Services"
+      },
+      "0020": {
+        "Description": "Bowling - Recreation Venues"
+      },
+      "0021": {
+        "Description": "Mini-Golf - Recreation Venues"
+      },
+      "0022": {
+        "Description": "Laser Tag - Recreation Venues"
+      },
+      "0023": {
+        "Description": "Trampoline Parks - Recreation Venues"
+      },
+      "0024": {
+        "Description": "Go-Kart Tracks - Recreation Venues"
+      },
+      "0025": {
+        "Description": "Admission Tickets - Amusement Parks"
+      },
+      "0026": {
+        "Description": "Season Passes - Amusement Parks"
+      },
+      "0027": {
+        "Description": "Food & Drink - Amusement Parks"
+      },
+      "0028": {
+        "Description": "Game Booths - Amusement Parks"
+      },
+      "0029": {
+        "Description": "Locker Rentals - Amusement Parks"
+      },
+      "0030": {
+        "Description": "Art Exhibits - Exhibits & Museums"
+      },
+      "0031": {
+        "Description": "Science Museums - Exhibits & Museums"
+      },
+      "0032": {
+        "Description": "Children’s Museums - Exhibits & Museums"
+      },
+      "0033": {
+        "Description": "Planetarium Access - Exhibits & Museums"
+      },
+      "0034": {
+        "Description": "Cultural Centers - Exhibits & Museums"
+      },
+      "0035": {
+        "Description": "Nightclub Entry - Nightlife"
+      },
+      "0036": {
+        "Description": "Cover Charges - Nightlife"
+      },
+      "0037": {
+        "Description": "VIP Access - Nightlife"
+      },
+      "0038": {
+        "Description": "Bottle Service - Nightlife"
+      },
+      "0039": {
+        "Description": "Bar Entertainment - Nightlife"
+      },
+      "0040": {
+        "Description": "Fan Clubs - Subscriptions & Memberships"
+      },
+      "0041": {
+        "Description": "Fan Subscriptions - Subscriptions & Memberships"
+      },
+      "0042": {
+        "Description": "Event Newsletter Access - Subscriptions & Memberships"
+      },
+      "0043": {
+        "Description": "Exclusive Merch Drops - Subscriptions & Memberships"
+      },
+      "0044": {
+        "Description": "Audiobook Services - Digital Entertainment"
+      },
+      "0045": {
+        "Description": "Virtual Concerts - Digital Entertainment"
+      },
+      "0046": {
+        "Description": "Metaverse Events - Digital Entertainment"
+      },
+      "0047": {
+        "Description": "NFT Tickets - Digital Entertainment"
+      },
+      "0048": {
+        "Description": "Interactive Streams - Digital Entertainment"
+      },
+      "0049": {
+        "Description": "Special Entertainment Item 49"
+      },
+      "0050": {
+        "Description": "Special Entertainment Item 50"
+      },
+      "0051": {
+        "Description": "Special Entertainment Item 51"
+      },
+      "0052": {
+        "Description": "Special Entertainment Item 52"
+      },
+      "0053": {
+        "Description": "Special Entertainment Item 53"
+      },
+      "0054": {
+        "Description": "Special Entertainment Item 54"
+      },
+      "0055": {
+        "Description": "Special Entertainment Item 55"
+      },
+      "0056": {
+        "Description": "Special Entertainment Item 56"
+      },
+      "0057": {
+        "Description": "Special Entertainment Item 57"
+      },
+      "0058": {
+        "Description": "Special Entertainment Item 58"
+      },
+      "0059": {
+        "Description": "Special Entertainment Item 59"
+      },
+      "0060": {
+        "Description": "Special Entertainment Item 60"
+      },
+      "0061": {
+        "Description": "Special Entertainment Item 61"
+      },
+      "0062": {
+        "Description": "Special Entertainment Item 62"
+      },
+      "0063": {
+        "Description": "Special Entertainment Item 63"
+      },
+      "0064": {
+        "Description": "Special Entertainment Item 64"
+      },
+      "0065": {
+        "Description": "Special Entertainment Item 65"
+      },
+      "0066": {
+        "Description": "Special Entertainment Item 66"
+      },
+      "0067": {
+        "Description": "Special Entertainment Item 67"
+      },
+      "0068": {
+        "Description": "Special Entertainment Item 68"
+      },
+      "0069": {
+        "Description": "Special Entertainment Item 69"
+      },
+      "0070": {
+        "Description": "Special Entertainment Item 70"
+      },
+      "0071": {
+        "Description": "Special Entertainment Item 71"
+      },
+      "0072": {
+        "Description": "Special Entertainment Item 72"
+      },
+      "0073": {
+        "Description": "Special Entertainment Item 73"
+      },
+      "0074": {
+        "Description": "Special Entertainment Item 74"
+      },
+      "0075": {
+        "Description": "Special Entertainment Item 75"
+      },
+      "0076": {
+        "Description": "Special Entertainment Item 76"
+      },
+      "0077": {
+        "Description": "Special Entertainment Item 77"
+      },
+      "0078": {
+        "Description": "Special Entertainment Item 78"
+      },
+      "0079": {
+        "Description": "Special Entertainment Item 79"
+      },
+      "0080": {
+        "Description": "Special Entertainment Item 80"
+      },
+      "0081": {
+        "Description": "Special Entertainment Item 81"
+      },
+      "0082": {
+        "Description": "Special Entertainment Item 82"
+      },
+      "0083": {
+        "Description": "Special Entertainment Item 83"
+      },
+      "0084": {
+        "Description": "Special Entertainment Item 84"
+      },
+      "0085": {
+        "Description": "Special Entertainment Item 85"
+      },
+      "0086": {
+        "Description": "Special Entertainment Item 86"
+      },
+      "0087": {
+        "Description": "Special Entertainment Item 87"
+      },
+      "0088": {
+        "Description": "Special Entertainment Item 88"
+      },
+      "0089": {
+        "Description": "Special Entertainment Item 89"
+      },
+      "0090": {
+        "Description": "Special Entertainment Item 90"
+      },
+      "0091": {
+        "Description": "Special Entertainment Item 91"
+      },
+      "0092": {
+        "Description": "Special Entertainment Item 92"
+      },
+      "0093": {
+        "Description": "Special Entertainment Item 93"
+      },
+      "0094": {
+        "Description": "Special Entertainment Item 94"
+      },
+      "0095": {
+        "Description": "Special Entertainment Item 95"
+      },
+      "0096": {
+        "Description": "Special Entertainment Item 96"
+      },
+      "0097": {
+        "Description": "Special Entertainment Item 97"
+      },
+      "0098": {
+        "Description": "Special Entertainment Item 98"
+      },
+      "0099": {
+        "Description": "Special Entertainment Item 99"
+      }
+    }
+  },
+  "FB": {
+    "Class Name": "Food & Beverage",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Fries - Appetizers & Sides"
+      },
+      "0001": {
+        "Description": "Onion Rings - Appetizers & Sides"
+      },
+      "0002": {
+        "Description": "Mozzarella Sticks - Appetizers & Sides"
+      },
+      "0003": {
+        "Description": "Garlic Bread - Appetizers & Sides"
+      },
+      "0004": {
+        "Description": "Sliders - Appetizers & Sides"
+      },
+      "0005": {
+        "Description": "Chips & Salsa - Appetizers & Sides"
+      },
+      "0006": {
+        "Description": "Burgers - Main Dishes"
+      },
+      "0007": {
+        "Description": "Sandwiches - Main Dishes"
+      },
+      "0008": {
+        "Description": "Steaks - Main Dishes"
+      },
+      "0009": {
+        "Description": "Chicken Plates - Main Dishes"
+      },
+      "0010": {
+        "Description": "Pasta - Main Dishes"
+      },
+      "0011": {
+        "Description": "Seafood Entrees - Main Dishes"
+      },
+      "0012": {
+        "Description": "Tacos - Ethnic Cuisine"
+      },
+      "0013": {
+        "Description": "Sushi - Ethnic Cuisine"
+      },
+      "0014": {
+        "Description": "Curry Dishes - Ethnic Cuisine"
+      },
+      "0015": {
+        "Description": "Kebabs - Ethnic Cuisine"
+      },
+      "0016": {
+        "Description": "Pho - Ethnic Cuisine"
+      },
+      "0017": {
+        "Description": "Dim Sum - Ethnic Cuisine"
+      },
+      "0018": {
+        "Description": "Pancakes - Breakfast"
+      },
+      "0019": {
+        "Description": "Omelettes - Breakfast"
+      },
+      "0020": {
+        "Description": "Breakfast Burritos - Breakfast"
+      },
+      "0021": {
+        "Description": "Bagels - Breakfast"
+      },
+      "0022": {
+        "Description": "French Toast - Breakfast"
+      },
+      "0023": {
+        "Description": "Wraps - Snacks & Light Meals"
+      },
+      "0024": {
+        "Description": "Salads - Snacks & Light Meals"
+      },
+      "0025": {
+        "Description": "Grain Bowls - Snacks & Light Meals"
+      },
+      "0026": {
+        "Description": "Soup - Snacks & Light Meals"
+      },
+      "0027": {
+        "Description": "Ice Cream - Desserts"
+      },
+      "0028": {
+        "Description": "Cookies - Desserts"
+      },
+      "0029": {
+        "Description": "Cakes - Desserts"
+      },
+      "0030": {
+        "Description": "Pies - Desserts"
+      },
+      "0031": {
+        "Description": "Brownies - Desserts"
+      },
+      "0032": {
+        "Description": "Soft Drinks - Drinks (Non-Alcoholic)"
+      },
+      "0033": {
+        "Description": "Juice - Drinks (Non-Alcoholic)"
+      },
+      "0034": {
+        "Description": "Coffee - Drinks (Non-Alcoholic)"
+      },
+      "0035": {
+        "Description": "Tea - Drinks (Non-Alcoholic)"
+      },
+      "0036": {
+        "Description": "Bottled Water - Drinks (Non-Alcoholic)"
+      },
+      "0037": {
+        "Description": "Smoothies - Drinks (Non-Alcoholic)"
+      },
+      "0038": {
+        "Description": "Vegan Entrees - Vegan & Vegetarian"
+      },
+      "0039": {
+        "Description": "Vegetarian Plates - Vegan & Vegetarian"
+      },
+      "0040": {
+        "Description": "Meat Substitutes - Vegan & Vegetarian"
+      },
+      "0041": {
+        "Description": "Tofu Dishes - Vegan & Vegetarian"
+      },
+      "0042": {
+        "Description": "Frozen Meals - Meal Kits & Prepackaged"
+      },
+      "0043": {
+        "Description": "Meal Kits - Meal Kits & Prepackaged"
+      },
+      "0044": {
+        "Description": "Grab & Go Sandwiches - Meal Kits & Prepackaged"
+      },
+      "0045": {
+        "Description": "Microwave Bowls - Meal Kits & Prepackaged"
+      },
+      "0046": {
+        "Description": "Mini Burgers - Kids Menu"
+      },
+      "0047": {
+        "Description": "Chicken Tenders - Kids Menu"
+      },
+      "0048": {
+        "Description": "Kids Pasta - Kids Menu"
+      },
+      "0049": {
+        "Description": "Grilled Cheese - Kids Menu"
+      },
+      "0050": {
+        "Description": "Special Food & Beverage Item 50"
+      },
+      "0051": {
+        "Description": "Special Food & Beverage Item 51"
+      },
+      "0052": {
+        "Description": "Special Food & Beverage Item 52"
+      },
+      "0053": {
+        "Description": "Special Food & Beverage Item 53"
+      },
+      "0054": {
+        "Description": "Special Food & Beverage Item 54"
+      },
+      "0055": {
+        "Description": "Special Food & Beverage Item 55"
+      },
+      "0056": {
+        "Description": "Special Food & Beverage Item 56"
+      },
+      "0057": {
+        "Description": "Special Food & Beverage Item 57"
+      },
+      "0058": {
+        "Description": "Special Food & Beverage Item 58"
+      },
+      "0059": {
+        "Description": "Special Food & Beverage Item 59"
+      },
+      "0060": {
+        "Description": "Special Food & Beverage Item 60"
+      },
+      "0061": {
+        "Description": "Special Food & Beverage Item 61"
+      },
+      "0062": {
+        "Description": "Special Food & Beverage Item 62"
+      },
+      "0063": {
+        "Description": "Special Food & Beverage Item 63"
+      },
+      "0064": {
+        "Description": "Special Food & Beverage Item 64"
+      },
+      "0065": {
+        "Description": "Special Food & Beverage Item 65"
+      },
+      "0066": {
+        "Description": "Special Food & Beverage Item 66"
+      },
+      "0067": {
+        "Description": "Special Food & Beverage Item 67"
+      },
+      "0068": {
+        "Description": "Special Food & Beverage Item 68"
+      },
+      "0069": {
+        "Description": "Special Food & Beverage Item 69"
+      },
+      "0070": {
+        "Description": "Special Food & Beverage Item 70"
+      },
+      "0071": {
+        "Description": "Special Food & Beverage Item 71"
+      },
+      "0072": {
+        "Description": "Special Food & Beverage Item 72"
+      },
+      "0073": {
+        "Description": "Special Food & Beverage Item 73"
+      },
+      "0074": {
+        "Description": "Special Food & Beverage Item 74"
+      },
+      "0075": {
+        "Description": "Special Food & Beverage Item 75"
+      },
+      "0076": {
+        "Description": "Special Food & Beverage Item 76"
+      },
+      "0077": {
+        "Description": "Special Food & Beverage Item 77"
+      },
+      "0078": {
+        "Description": "Special Food & Beverage Item 78"
+      },
+      "0079": {
+        "Description": "Special Food & Beverage Item 79"
+      },
+      "0080": {
+        "Description": "Special Food & Beverage Item 80"
+      },
+      "0081": {
+        "Description": "Special Food & Beverage Item 81"
+      },
+      "0082": {
+        "Description": "Special Food & Beverage Item 82"
+      },
+      "0083": {
+        "Description": "Special Food & Beverage Item 83"
+      },
+      "0084": {
+        "Description": "Special Food & Beverage Item 84"
+      },
+      "0085": {
+        "Description": "Special Food & Beverage Item 85"
+      },
+      "0086": {
+        "Description": "Special Food & Beverage Item 86"
+      },
+      "0087": {
+        "Description": "Special Food & Beverage Item 87"
+      },
+      "0088": {
+        "Description": "Special Food & Beverage Item 88"
+      },
+      "0089": {
+        "Description": "Special Food & Beverage Item 89"
+      },
+      "0090": {
+        "Description": "Special Food & Beverage Item 90"
+      },
+      "0091": {
+        "Description": "Special Food & Beverage Item 91"
+      },
+      "0092": {
+        "Description": "Special Food & Beverage Item 92"
+      },
+      "0093": {
+        "Description": "Special Food & Beverage Item 93"
+      },
+      "0094": {
+        "Description": "Special Food & Beverage Item 94"
+      },
+      "0095": {
+        "Description": "Special Food & Beverage Item 95"
+      },
+      "0096": {
+        "Description": "Special Food & Beverage Item 96"
+      },
+      "0097": {
+        "Description": "Special Food & Beverage Item 97"
+      },
+      "0098": {
+        "Description": "Special Food & Beverage Item 98"
+      },
+      "0099": {
+        "Description": "Special Food & Beverage Item 99"
+      }
+    }
+  },
+  "FI": {
+    "Class Name": "Financial Services",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Checking Account Fees - Banking"
+      },
+      "0001": {
+        "Description": "Savings Account Fees - Banking"
+      },
+      "0002": {
+        "Description": "Overdraft Charges - Banking"
+      },
+      "0003": {
+        "Description": "Wire Transfers - Banking"
+      },
+      "0004": {
+        "Description": "ATM Fees - Banking"
+      },
+      "0005": {
+        "Description": "Personal Loans - Loans"
+      },
+      "0006": {
+        "Description": "Auto Loans - Loans"
+      },
+      "0007": {
+        "Description": "Home Loans - Loans"
+      },
+      "0008": {
+        "Description": "Student Loans - Loans"
+      },
+      "0009": {
+        "Description": "Loan Origination Fees - Loans"
+      },
+      "0010": {
+        "Description": "Stock Purchases - Investments"
+      },
+      "0011": {
+        "Description": "Mutual Funds - Investments"
+      },
+      "0012": {
+        "Description": "ETFs - Investments"
+      },
+      "0013": {
+        "Description": "Crypto Trading - Investments"
+      },
+      "0014": {
+        "Description": "Portfolio Management - Investments"
+      },
+      "0015": {
+        "Description": "Life Insurance - Insurance Services"
+      },
+      "0016": {
+        "Description": "Auto Insurance - Insurance Services"
+      },
+      "0017": {
+        "Description": "Home Insurance - Insurance Services"
+      },
+      "0018": {
+        "Description": "Health Insurance - Insurance Services"
+      },
+      "0019": {
+        "Description": "Travel Insurance - Insurance Services"
+      },
+      "0020": {
+        "Description": "Retirement Planning - Financial Planning"
+      },
+      "0021": {
+        "Description": "College Savings Plans - Financial Planning"
+      },
+      "0022": {
+        "Description": "Estate Planning - Financial Planning"
+      },
+      "0023": {
+        "Description": "Budget Consulting - Financial Planning"
+      },
+      "0024": {
+        "Description": "Bookkeeping - Accounting Services"
+      },
+      "0025": {
+        "Description": "Tax Preparation - Accounting Services"
+      },
+      "0026": {
+        "Description": "Audit Services - Accounting Services"
+      },
+      "0027": {
+        "Description": "Payroll Services - Accounting Services"
+      },
+      "0028": {
+        "Description": "Business Loans - Business Finance"
+      },
+      "0029": {
+        "Description": "Merchant Services - Business Finance"
+      },
+      "0030": {
+        "Description": "POS Systems - Business Finance"
+      },
+      "0031": {
+        "Description": "Invoice Financing - Business Finance"
+      },
+      "0032": {
+        "Description": "Credit Monitoring - Credit Services"
+      },
+      "0033": {
+        "Description": "Credit Reports - Credit Services"
+      },
+      "0034": {
+        "Description": "Dispute Services - Credit Services"
+      },
+      "0035": {
+        "Description": "Debt Counseling - Credit Services"
+      },
+      "0036": {
+        "Description": "Federal Tax Filing - Tax Services"
+      },
+      "0037": {
+        "Description": "State Tax Filing - Tax Services"
+      },
+      "0038": {
+        "Description": "Tax Advisory - Tax Services"
+      },
+      "0039": {
+        "Description": "Back Tax Resolution - Tax Services"
+      },
+      "0040": {
+        "Description": "Mobile Banking Fees - Online & Digital"
+      },
+      "0041": {
+        "Description": "Fintech App Fees - Online & Digital"
+      },
+      "0042": {
+        "Description": "Digital Wallet Services - Online & Digital"
+      },
+      "0043": {
+        "Description": "Robo-Advisors - Online & Digital"
+      },
+      "0044": {
+        "Description": "Special Financial Service 44"
+      },
+      "0045": {
+        "Description": "Special Financial Service 45"
+      },
+      "0046": {
+        "Description": "Special Financial Service 46"
+      },
+      "0047": {
+        "Description": "Special Financial Service 47"
+      },
+      "0048": {
+        "Description": "Special Financial Service 48"
+      },
+      "0049": {
+        "Description": "Special Financial Service 49"
+      },
+      "0050": {
+        "Description": "Special Financial Service 50"
+      },
+      "0051": {
+        "Description": "Special Financial Service 51"
+      },
+      "0052": {
+        "Description": "Special Financial Service 52"
+      },
+      "0053": {
+        "Description": "Special Financial Service 53"
+      },
+      "0054": {
+        "Description": "Special Financial Service 54"
+      },
+      "0055": {
+        "Description": "Special Financial Service 55"
+      },
+      "0056": {
+        "Description": "Special Financial Service 56"
+      },
+      "0057": {
+        "Description": "Special Financial Service 57"
+      },
+      "0058": {
+        "Description": "Special Financial Service 58"
+      },
+      "0059": {
+        "Description": "Special Financial Service 59"
+      },
+      "0060": {
+        "Description": "Special Financial Service 60"
+      },
+      "0061": {
+        "Description": "Special Financial Service 61"
+      },
+      "0062": {
+        "Description": "Special Financial Service 62"
+      },
+      "0063": {
+        "Description": "Special Financial Service 63"
+      },
+      "0064": {
+        "Description": "Special Financial Service 64"
+      },
+      "0065": {
+        "Description": "Special Financial Service 65"
+      },
+      "0066": {
+        "Description": "Special Financial Service 66"
+      },
+      "0067": {
+        "Description": "Special Financial Service 67"
+      },
+      "0068": {
+        "Description": "Special Financial Service 68"
+      },
+      "0069": {
+        "Description": "Special Financial Service 69"
+      },
+      "0070": {
+        "Description": "Special Financial Service 70"
+      },
+      "0071": {
+        "Description": "Special Financial Service 71"
+      },
+      "0072": {
+        "Description": "Special Financial Service 72"
+      },
+      "0073": {
+        "Description": "Special Financial Service 73"
+      },
+      "0074": {
+        "Description": "Special Financial Service 74"
+      },
+      "0075": {
+        "Description": "Special Financial Service 75"
+      },
+      "0076": {
+        "Description": "Special Financial Service 76"
+      },
+      "0077": {
+        "Description": "Special Financial Service 77"
+      },
+      "0078": {
+        "Description": "Special Financial Service 78"
+      },
+      "0079": {
+        "Description": "Special Financial Service 79"
+      },
+      "0080": {
+        "Description": "Special Financial Service 80"
+      },
+      "0081": {
+        "Description": "Special Financial Service 81"
+      },
+      "0082": {
+        "Description": "Special Financial Service 82"
+      },
+      "0083": {
+        "Description": "Special Financial Service 83"
+      },
+      "0084": {
+        "Description": "Special Financial Service 84"
+      },
+      "0085": {
+        "Description": "Special Financial Service 85"
+      },
+      "0086": {
+        "Description": "Special Financial Service 86"
+      },
+      "0087": {
+        "Description": "Special Financial Service 87"
+      },
+      "0088": {
+        "Description": "Special Financial Service 88"
+      },
+      "0089": {
+        "Description": "Special Financial Service 89"
+      },
+      "0090": {
+        "Description": "Special Financial Service 90"
+      },
+      "0091": {
+        "Description": "Special Financial Service 91"
+      },
+      "0092": {
+        "Description": "Special Financial Service 92"
+      },
+      "0093": {
+        "Description": "Special Financial Service 93"
+      },
+      "0094": {
+        "Description": "Special Financial Service 94"
+      },
+      "0095": {
+        "Description": "Special Financial Service 95"
+      },
+      "0096": {
+        "Description": "Special Financial Service 96"
+      },
+      "0097": {
+        "Description": "Special Financial Service 97"
+      },
+      "0098": {
+        "Description": "Special Financial Service 98"
+      },
+      "0099": {
+        "Description": "Special Financial Service 99"
+      }
+    }
+  },
+  "FT": {
+    "Class Name": "Fitness & Training",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Monthly Membership - Gym Access"
+      },
+      "0001": {
+        "Description": "Annual Membership - Gym Access"
+      },
+      "0002": {
+        "Description": "Day Pass - Gym Access"
+      },
+      "0003": {
+        "Description": "Guest Pass - Gym Access"
+      },
+      "0004": {
+        "Description": "Premium Membership - Gym Access"
+      },
+      "0005": {
+        "Description": "Yoga Classes - Group Classes"
+      },
+      "0006": {
+        "Description": "Spin Classes - Group Classes"
+      },
+      "0007": {
+        "Description": "Pilates - Group Classes"
+      },
+      "0008": {
+        "Description": "Zumba - Group Classes"
+      },
+      "0009": {
+        "Description": "HIIT - Group Classes"
+      },
+      "0010": {
+        "Description": "Barre - Group Classes"
+      },
+      "0011": {
+        "Description": "1-on-1 Sessions - Personal Training"
+      },
+      "0012": {
+        "Description": "Small Group Training - Personal Training"
+      },
+      "0013": {
+        "Description": "Virtual Coaching - Personal Training"
+      },
+      "0014": {
+        "Description": "Fitness Assessments - Personal Training"
+      },
+      "0015": {
+        "Description": "Athletic Conditioning - Sports Training"
+      },
+      "0016": {
+        "Description": "Strength Training - Sports Training"
+      },
+      "0017": {
+        "Description": "Endurance Coaching - Sports Training"
+      },
+      "0018": {
+        "Description": "Agility Training - Sports Training"
+      },
+      "0019": {
+        "Description": "Sport-Specific Drills - Sports Training"
+      },
+      "0020": {
+        "Description": "Stretch Therapy - Wellness Services"
+      },
+      "0021": {
+        "Description": "Massage for Athletes - Wellness Services"
+      },
+      "0022": {
+        "Description": "Cryotherapy - Wellness Services"
+      },
+      "0023": {
+        "Description": "Recovery Room Access - Wellness Services"
+      },
+      "0024": {
+        "Description": "Infrared Sauna - Wellness Services"
+      },
+      "0025": {
+        "Description": "Meal Planning - Nutrition & Coaching"
+      },
+      "0026": {
+        "Description": "Nutrition Coaching - Nutrition & Coaching"
+      },
+      "0027": {
+        "Description": "Supplement Consults - Nutrition & Coaching"
+      },
+      "0028": {
+        "Description": "Body Composition Testing - Nutrition & Coaching"
+      },
+      "0029": {
+        "Description": "Fitness Apps - Online Fitness"
+      },
+      "0030": {
+        "Description": "Streaming Classes - Online Fitness"
+      },
+      "0031": {
+        "Description": "Virtual Personal Training - Online Fitness"
+      },
+      "0032": {
+        "Description": "Digital Workout Plans - Online Fitness"
+      },
+      "0033": {
+        "Description": "Towel Service - Fitness Gear Rental"
+      },
+      "0034": {
+        "Description": "Locker Rental - Fitness Gear Rental"
+      },
+      "0035": {
+        "Description": "Shoe Rental - Fitness Gear Rental"
+      },
+      "0036": {
+        "Description": "Resistance Band Rental - Fitness Gear Rental"
+      },
+      "0037": {
+        "Description": "Weight Loss Programs - Specialty Programs"
+      },
+      "0038": {
+        "Description": "Bootcamps - Specialty Programs"
+      },
+      "0039": {
+        "Description": "Prenatal Fitness - Specialty Programs"
+      },
+      "0040": {
+        "Description": "Senior Fitness - Specialty Programs"
+      },
+      "0041": {
+        "Description": "Youth Fitness - Specialty Programs"
+      },
+      "0042": {
+        "Description": "Fitness Challenges - Workshops & Events"
+      },
+      "0043": {
+        "Description": "Open House Events - Workshops & Events"
+      },
+      "0044": {
+        "Description": "Community Runs - Workshops & Events"
+      },
+      "0045": {
+        "Description": "Fitness Expos - Workshops & Events"
+      },
+      "0046": {
+        "Description": "Training Seminars - Workshops & Events"
+      },
+      "0047": {
+        "Description": "Special Fitness Item 47"
+      },
+      "0048": {
+        "Description": "Special Fitness Item 48"
+      },
+      "0049": {
+        "Description": "Special Fitness Item 49"
+      },
+      "0050": {
+        "Description": "Special Fitness Item 50"
+      },
+      "0051": {
+        "Description": "Special Fitness Item 51"
+      },
+      "0052": {
+        "Description": "Special Fitness Item 52"
+      },
+      "0053": {
+        "Description": "Special Fitness Item 53"
+      },
+      "0054": {
+        "Description": "Special Fitness Item 54"
+      },
+      "0055": {
+        "Description": "Special Fitness Item 55"
+      },
+      "0056": {
+        "Description": "Special Fitness Item 56"
+      },
+      "0057": {
+        "Description": "Special Fitness Item 57"
+      },
+      "0058": {
+        "Description": "Special Fitness Item 58"
+      },
+      "0059": {
+        "Description": "Special Fitness Item 59"
+      },
+      "0060": {
+        "Description": "Special Fitness Item 60"
+      },
+      "0061": {
+        "Description": "Special Fitness Item 61"
+      },
+      "0062": {
+        "Description": "Special Fitness Item 62"
+      },
+      "0063": {
+        "Description": "Special Fitness Item 63"
+      },
+      "0064": {
+        "Description": "Special Fitness Item 64"
+      },
+      "0065": {
+        "Description": "Special Fitness Item 65"
+      },
+      "0066": {
+        "Description": "Special Fitness Item 66"
+      },
+      "0067": {
+        "Description": "Special Fitness Item 67"
+      },
+      "0068": {
+        "Description": "Special Fitness Item 68"
+      },
+      "0069": {
+        "Description": "Special Fitness Item 69"
+      },
+      "0070": {
+        "Description": "Special Fitness Item 70"
+      },
+      "0071": {
+        "Description": "Special Fitness Item 71"
+      },
+      "0072": {
+        "Description": "Special Fitness Item 72"
+      },
+      "0073": {
+        "Description": "Special Fitness Item 73"
+      },
+      "0074": {
+        "Description": "Special Fitness Item 74"
+      },
+      "0075": {
+        "Description": "Special Fitness Item 75"
+      },
+      "0076": {
+        "Description": "Special Fitness Item 76"
+      },
+      "0077": {
+        "Description": "Special Fitness Item 77"
+      },
+      "0078": {
+        "Description": "Special Fitness Item 78"
+      },
+      "0079": {
+        "Description": "Special Fitness Item 79"
+      },
+      "0080": {
+        "Description": "Special Fitness Item 80"
+      },
+      "0081": {
+        "Description": "Special Fitness Item 81"
+      },
+      "0082": {
+        "Description": "Special Fitness Item 82"
+      },
+      "0083": {
+        "Description": "Special Fitness Item 83"
+      },
+      "0084": {
+        "Description": "Special Fitness Item 84"
+      },
+      "0085": {
+        "Description": "Special Fitness Item 85"
+      },
+      "0086": {
+        "Description": "Special Fitness Item 86"
+      },
+      "0087": {
+        "Description": "Special Fitness Item 87"
+      },
+      "0088": {
+        "Description": "Special Fitness Item 88"
+      },
+      "0089": {
+        "Description": "Special Fitness Item 89"
+      },
+      "0090": {
+        "Description": "Special Fitness Item 90"
+      },
+      "0091": {
+        "Description": "Special Fitness Item 91"
+      },
+      "0092": {
+        "Description": "Special Fitness Item 92"
+      },
+      "0093": {
+        "Description": "Special Fitness Item 93"
+      },
+      "0094": {
+        "Description": "Special Fitness Item 94"
+      },
+      "0095": {
+        "Description": "Special Fitness Item 95"
+      },
+      "0096": {
+        "Description": "Special Fitness Item 96"
+      },
+      "0097": {
+        "Description": "Special Fitness Item 97"
+      },
+      "0098": {
+        "Description": "Special Fitness Item 98"
+      },
+      "0099": {
+        "Description": "Special Fitness Item 99"
+      }
+    }
+  },
+  "HM": {
+    "Class Name": "Household Maintenance",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Refrigerators - Appliances"
+      },
+      "0001": {
+        "Description": "Washers & Dryers - Appliances"
+      },
+      "0002": {
+        "Description": "Dishwashers - Appliances"
+      },
+      "0003": {
+        "Description": "Microwaves - Appliances"
+      },
+      "0004": {
+        "Description": "Vacuum Cleaners - Appliances"
+      },
+      "0005": {
+        "Description": "All-Purpose Cleaners - Cleaning Supplies"
+      },
+      "0006": {
+        "Description": "Glass Cleaners - Cleaning Supplies"
+      },
+      "0007": {
+        "Description": "Floor Cleaners - Cleaning Supplies"
+      },
+      "0008": {
+        "Description": "Toilet Cleaners - Cleaning Supplies"
+      },
+      "0009": {
+        "Description": "Laundry Detergents - Cleaning Supplies"
+      },
+      "0010": {
+        "Description": "Light Bulbs - Home Essentials"
+      },
+      "0011": {
+        "Description": "Batteries - Home Essentials"
+      },
+      "0012": {
+        "Description": "Trash Bags - Home Essentials"
+      },
+      "0013": {
+        "Description": "Air Fresheners - Home Essentials"
+      },
+      "0014": {
+        "Description": "Storage Containers - Home Essentials"
+      },
+      "0015": {
+        "Description": "Hand Tools - Tools & Equipment"
+      },
+      "0016": {
+        "Description": "Power Tools - Tools & Equipment"
+      },
+      "0017": {
+        "Description": "Ladders - Tools & Equipment"
+      },
+      "0018": {
+        "Description": "Tool Sets - Tools & Equipment"
+      },
+      "0019": {
+        "Description": "Tool Rental - Tools & Equipment"
+      },
+      "0020": {
+        "Description": "Plumbing Supplies - Home Repair"
+      },
+      "0021": {
+        "Description": "Electrical Supplies - Home Repair"
+      },
+      "0022": {
+        "Description": "Paint & Supplies - Home Repair"
+      },
+      "0023": {
+        "Description": "Hardware & Fasteners - Home Repair"
+      },
+      "0024": {
+        "Description": "Sealants - Home Repair"
+      },
+      "0025": {
+        "Description": "Plumbing Services - Home Services"
+      },
+      "0026": {
+        "Description": "Electrical Repairs - Home Services"
+      },
+      "0027": {
+        "Description": "HVAC Services - Home Services"
+      },
+      "0028": {
+        "Description": "Painting Services - Home Services"
+      },
+      "0029": {
+        "Description": "Pest Control - Home Services"
+      },
+      "0030": {
+        "Description": "Lawn Care - Outdoor & Garden"
+      },
+      "0031": {
+        "Description": "Fertilizers - Outdoor & Garden"
+      },
+      "0032": {
+        "Description": "Gardening Tools - Outdoor & Garden"
+      },
+      "0033": {
+        "Description": "Outdoor Lighting - Outdoor & Garden"
+      },
+      "0034": {
+        "Description": "Patio Furniture - Outdoor & Garden"
+      },
+      "0035": {
+        "Description": "Smoke Detectors - Safety & Security"
+      },
+      "0036": {
+        "Description": "Fire Extinguishers - Safety & Security"
+      },
+      "0037": {
+        "Description": "Security Cameras - Safety & Security"
+      },
+      "0038": {
+        "Description": "Smart Locks - Safety & Security"
+      },
+      "0039": {
+        "Description": "Alarm Systems - Safety & Security"
+      },
+      "0040": {
+        "Description": "Living Room Furniture - Furniture"
+      },
+      "0041": {
+        "Description": "Bedroom Furniture - Furniture"
+      },
+      "0042": {
+        "Description": "Office Furniture - Furniture"
+      },
+      "0043": {
+        "Description": "Storage Furniture - Furniture"
+      },
+      "0044": {
+        "Description": "Assembly Services - Furniture"
+      },
+      "0045": {
+        "Description": "Smart Thermostats - Smart Home"
+      },
+      "0046": {
+        "Description": "Smart Lights - Smart Home"
+      },
+      "0047": {
+        "Description": "Smart Plugs - Smart Home"
+      },
+      "0048": {
+        "Description": "Home Hubs - Smart Home"
+      },
+      "0049": {
+        "Description": "Voice Assistants - Smart Home"
+      },
+      "0050": {
+        "Description": "Special Household Item 50"
+      },
+      "0051": {
+        "Description": "Special Household Item 51"
+      },
+      "0052": {
+        "Description": "Special Household Item 52"
+      },
+      "0053": {
+        "Description": "Special Household Item 53"
+      },
+      "0054": {
+        "Description": "Special Household Item 54"
+      },
+      "0055": {
+        "Description": "Special Household Item 55"
+      },
+      "0056": {
+        "Description": "Special Household Item 56"
+      },
+      "0057": {
+        "Description": "Special Household Item 57"
+      },
+      "0058": {
+        "Description": "Special Household Item 58"
+      },
+      "0059": {
+        "Description": "Special Household Item 59"
+      },
+      "0060": {
+        "Description": "Special Household Item 60"
+      },
+      "0061": {
+        "Description": "Special Household Item 61"
+      },
+      "0062": {
+        "Description": "Special Household Item 62"
+      },
+      "0063": {
+        "Description": "Special Household Item 63"
+      },
+      "0064": {
+        "Description": "Special Household Item 64"
+      },
+      "0065": {
+        "Description": "Special Household Item 65"
+      },
+      "0066": {
+        "Description": "Special Household Item 66"
+      },
+      "0067": {
+        "Description": "Special Household Item 67"
+      },
+      "0068": {
+        "Description": "Special Household Item 68"
+      },
+      "0069": {
+        "Description": "Special Household Item 69"
+      },
+      "0070": {
+        "Description": "Special Household Item 70"
+      },
+      "0071": {
+        "Description": "Special Household Item 71"
+      },
+      "0072": {
+        "Description": "Special Household Item 72"
+      },
+      "0073": {
+        "Description": "Special Household Item 73"
+      },
+      "0074": {
+        "Description": "Special Household Item 74"
+      },
+      "0075": {
+        "Description": "Special Household Item 75"
+      },
+      "0076": {
+        "Description": "Special Household Item 76"
+      },
+      "0077": {
+        "Description": "Special Household Item 77"
+      },
+      "0078": {
+        "Description": "Special Household Item 78"
+      },
+      "0079": {
+        "Description": "Special Household Item 79"
+      },
+      "0080": {
+        "Description": "Special Household Item 80"
+      },
+      "0081": {
+        "Description": "Special Household Item 81"
+      },
+      "0082": {
+        "Description": "Special Household Item 82"
+      },
+      "0083": {
+        "Description": "Special Household Item 83"
+      },
+      "0084": {
+        "Description": "Special Household Item 84"
+      },
+      "0085": {
+        "Description": "Special Household Item 85"
+      },
+      "0086": {
+        "Description": "Special Household Item 86"
+      },
+      "0087": {
+        "Description": "Special Household Item 87"
+      },
+      "0088": {
+        "Description": "Special Household Item 88"
+      },
+      "0089": {
+        "Description": "Special Household Item 89"
+      },
+      "0090": {
+        "Description": "Special Household Item 90"
+      },
+      "0091": {
+        "Description": "Special Household Item 91"
+      },
+      "0092": {
+        "Description": "Special Household Item 92"
+      },
+      "0093": {
+        "Description": "Special Household Item 93"
+      },
+      "0094": {
+        "Description": "Special Household Item 94"
+      },
+      "0095": {
+        "Description": "Special Household Item 95"
+      },
+      "0096": {
+        "Description": "Special Household Item 96"
+      },
+      "0097": {
+        "Description": "Special Household Item 97"
+      },
+      "0098": {
+        "Description": "Special Household Item 98"
+      },
+      "0099": {
+        "Description": "Special Household Item 99"
+      }
+    }
+  },
+  "IN": {
+    "Class Name": "Insurance",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Individual Health Plans - Health Insurance"
+      },
+      "0001": {
+        "Description": "Family Health Plans - Health Insurance"
+      },
+      "0002": {
+        "Description": "Short-Term Health - Health Insurance"
+      },
+      "0003": {
+        "Description": "Dental Insurance - Health Insurance"
+      },
+      "0004": {
+        "Description": "Vision Insurance - Health Insurance"
+      },
+      "0005": {
+        "Description": "Term Life - Life Insurance"
+      },
+      "0006": {
+        "Description": "Whole Life - Life Insurance"
+      },
+      "0007": {
+        "Description": "Universal Life - Life Insurance"
+      },
+      "0008": {
+        "Description": "Accidental Death - Life Insurance"
+      },
+      "0009": {
+        "Description": "Burial Insurance - Life Insurance"
+      },
+      "0010": {
+        "Description": "Liability Coverage - Auto Insurance"
+      },
+      "0011": {
+        "Description": "Collision Coverage - Auto Insurance"
+      },
+      "0012": {
+        "Description": "Comprehensive Coverage - Auto Insurance"
+      },
+      "0013": {
+        "Description": "Roadside Assistance - Auto Insurance"
+      },
+      "0014": {
+        "Description": "Rental Reimbursement - Auto Insurance"
+      },
+      "0015": {
+        "Description": "Homeowners - Home Insurance"
+      },
+      "0016": {
+        "Description": "Renters Insurance - Home Insurance"
+      },
+      "0017": {
+        "Description": "Flood Insurance - Home Insurance"
+      },
+      "0018": {
+        "Description": "Earthquake Insurance - Home Insurance"
+      },
+      "0019": {
+        "Description": "Fire Coverage - Home Insurance"
+      },
+      "0020": {
+        "Description": "Trip Cancellation - Travel Insurance"
+      },
+      "0021": {
+        "Description": "Medical Travel Insurance - Travel Insurance"
+      },
+      "0022": {
+        "Description": "Baggage Loss - Travel Insurance"
+      },
+      "0023": {
+        "Description": "Travel Delay - Travel Insurance"
+      },
+      "0024": {
+        "Description": "Adventure Travel - Travel Insurance"
+      },
+      "0025": {
+        "Description": "General Liability - Business Insurance"
+      },
+      "0026": {
+        "Description": "Professional Liability - Business Insurance"
+      },
+      "0027": {
+        "Description": "Workers’ Compensation - Business Insurance"
+      },
+      "0028": {
+        "Description": "Cyber Insurance - Business Insurance"
+      },
+      "0029": {
+        "Description": "Commercial Auto - Business Insurance"
+      },
+      "0030": {
+        "Description": "Accident Coverage - Pet Insurance"
+      },
+      "0031": {
+        "Description": "Illness Coverage - Pet Insurance"
+      },
+      "0032": {
+        "Description": "Routine Care - Pet Insurance"
+      },
+      "0033": {
+        "Description": "Emergency Coverage - Pet Insurance"
+      },
+      "0034": {
+        "Description": "Prescription Coverage - Pet Insurance"
+      },
+      "0035": {
+        "Description": "Event Insurance - Specialty Insurance"
+      },
+      "0036": {
+        "Description": "Wedding Insurance - Specialty Insurance"
+      },
+      "0037": {
+        "Description": "Boat Insurance - Specialty Insurance"
+      },
+      "0038": {
+        "Description": "Motorcycle Insurance - Specialty Insurance"
+      },
+      "0039": {
+        "Description": "Collector Car Insurance - Specialty Insurance"
+      },
+      "0040": {
+        "Description": "Risk Assessment - Consulting Services"
+      },
+      "0041": {
+        "Description": "Policy Review - Consulting Services"
+      },
+      "0042": {
+        "Description": "Claims Consulting - Consulting Services"
+      },
+      "0043": {
+        "Description": "Coverage Planning - Consulting Services"
+      },
+      "0044": {
+        "Description": "Legal Insurance Advice - Consulting Services"
+      },
+      "0045": {
+        "Description": "Critical Illness - Supplemental Coverage"
+      },
+      "0046": {
+        "Description": "Hospital Indemnity - Supplemental Coverage"
+      },
+      "0047": {
+        "Description": "Accident Coverage - Supplemental Coverage"
+      },
+      "0048": {
+        "Description": "Cancer Insurance - Supplemental Coverage"
+      },
+      "0049": {
+        "Description": "Disability Insurance - Supplemental Coverage"
+      },
+      "0050": {
+        "Description": "Special Insurance Item 50"
+      },
+      "0051": {
+        "Description": "Special Insurance Item 51"
+      },
+      "0052": {
+        "Description": "Special Insurance Item 52"
+      },
+      "0053": {
+        "Description": "Special Insurance Item 53"
+      },
+      "0054": {
+        "Description": "Special Insurance Item 54"
+      },
+      "0055": {
+        "Description": "Special Insurance Item 55"
+      },
+      "0056": {
+        "Description": "Special Insurance Item 56"
+      },
+      "0057": {
+        "Description": "Special Insurance Item 57"
+      },
+      "0058": {
+        "Description": "Special Insurance Item 58"
+      },
+      "0059": {
+        "Description": "Special Insurance Item 59"
+      },
+      "0060": {
+        "Description": "Special Insurance Item 60"
+      },
+      "0061": {
+        "Description": "Special Insurance Item 61"
+      },
+      "0062": {
+        "Description": "Special Insurance Item 62"
+      },
+      "0063": {
+        "Description": "Special Insurance Item 63"
+      },
+      "0064": {
+        "Description": "Special Insurance Item 64"
+      },
+      "0065": {
+        "Description": "Special Insurance Item 65"
+      },
+      "0066": {
+        "Description": "Special Insurance Item 66"
+      },
+      "0067": {
+        "Description": "Special Insurance Item 67"
+      },
+      "0068": {
+        "Description": "Special Insurance Item 68"
+      },
+      "0069": {
+        "Description": "Special Insurance Item 69"
+      },
+      "0070": {
+        "Description": "Special Insurance Item 70"
+      },
+      "0071": {
+        "Description": "Special Insurance Item 71"
+      },
+      "0072": {
+        "Description": "Special Insurance Item 72"
+      },
+      "0073": {
+        "Description": "Special Insurance Item 73"
+      },
+      "0074": {
+        "Description": "Special Insurance Item 74"
+      },
+      "0075": {
+        "Description": "Special Insurance Item 75"
+      },
+      "0076": {
+        "Description": "Special Insurance Item 76"
+      },
+      "0077": {
+        "Description": "Special Insurance Item 77"
+      },
+      "0078": {
+        "Description": "Special Insurance Item 78"
+      },
+      "0079": {
+        "Description": "Special Insurance Item 79"
+      },
+      "0080": {
+        "Description": "Special Insurance Item 80"
+      },
+      "0081": {
+        "Description": "Special Insurance Item 81"
+      },
+      "0082": {
+        "Description": "Special Insurance Item 82"
+      },
+      "0083": {
+        "Description": "Special Insurance Item 83"
+      },
+      "0084": {
+        "Description": "Special Insurance Item 84"
+      },
+      "0085": {
+        "Description": "Special Insurance Item 85"
+      },
+      "0086": {
+        "Description": "Special Insurance Item 86"
+      },
+      "0087": {
+        "Description": "Special Insurance Item 87"
+      },
+      "0088": {
+        "Description": "Special Insurance Item 88"
+      },
+      "0089": {
+        "Description": "Special Insurance Item 89"
+      },
+      "0090": {
+        "Description": "Special Insurance Item 90"
+      },
+      "0091": {
+        "Description": "Special Insurance Item 91"
+      },
+      "0092": {
+        "Description": "Special Insurance Item 92"
+      },
+      "0093": {
+        "Description": "Special Insurance Item 93"
+      },
+      "0094": {
+        "Description": "Special Insurance Item 94"
+      },
+      "0095": {
+        "Description": "Special Insurance Item 95"
+      },
+      "0096": {
+        "Description": "Special Insurance Item 96"
+      },
+      "0097": {
+        "Description": "Special Insurance Item 97"
+      },
+      "0098": {
+        "Description": "Special Insurance Item 98"
+      },
+      "0099": {
+        "Description": "Special Insurance Item 99"
+      }
+    }
+  },
+  "MD": {
+    "Class Name": "Medical & Health Products",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Prescription Drugs - Medications"
+      },
+      "0001": {
+        "Description": "Over-the-Counter Meds - Medications"
+      },
+      "0002": {
+        "Description": "Pain Relievers - Medications"
+      },
+      "0003": {
+        "Description": "Cold & Flu Meds - Medications"
+      },
+      "0004": {
+        "Description": "Allergy Relief - Medications"
+      },
+      "0005": {
+        "Description": "Bandages - First Aid"
+      },
+      "0006": {
+        "Description": "Antiseptics - First Aid"
+      },
+      "0007": {
+        "Description": "Gauze & Pads - First Aid"
+      },
+      "0008": {
+        "Description": "First Aid Kits - First Aid"
+      },
+      "0009": {
+        "Description": "Wound Care - First Aid"
+      },
+      "0010": {
+        "Description": "Thermometers - Health Monitoring"
+      },
+      "0011": {
+        "Description": "Blood Pressure Monitors - Health Monitoring"
+      },
+      "0012": {
+        "Description": "Glucose Meters - Health Monitoring"
+      },
+      "0013": {
+        "Description": "Pulse Oximeters - Health Monitoring"
+      },
+      "0014": {
+        "Description": "Smart Health Devices - Health Monitoring"
+      },
+      "0015": {
+        "Description": "Vitamins - Supplements"
+      },
+      "0016": {
+        "Description": "Minerals - Supplements"
+      },
+      "0017": {
+        "Description": "Herbal Supplements - Supplements"
+      },
+      "0018": {
+        "Description": "Protein Powders - Supplements"
+      },
+      "0019": {
+        "Description": "Immune Boosters - Supplements"
+      },
+      "0020": {
+        "Description": "Hygiene Products - Personal Health"
+      },
+      "0021": {
+        "Description": "Menstrual Care - Personal Health"
+      },
+      "0022": {
+        "Description": "Incontinence Products - Personal Health"
+      },
+      "0023": {
+        "Description": "Condoms - Personal Health"
+      },
+      "0024": {
+        "Description": "Lubricants - Personal Health"
+      },
+      "0025": {
+        "Description": "Canes - Mobility & Support"
+      },
+      "0026": {
+        "Description": "Walkers - Mobility & Support"
+      },
+      "0027": {
+        "Description": "Braces - Mobility & Support"
+      },
+      "0028": {
+        "Description": "Wheelchairs - Mobility & Support"
+      },
+      "0029": {
+        "Description": "Compression Wear - Mobility & Support"
+      },
+      "0030": {
+        "Description": "Nebulizers - Medical Equipment"
+      },
+      "0031": {
+        "Description": "CPAP Machines - Medical Equipment"
+      },
+      "0032": {
+        "Description": "Medical Gloves - Medical Equipment"
+      },
+      "0033": {
+        "Description": "Syringes - Medical Equipment"
+      },
+      "0034": {
+        "Description": "Exam Equipment - Medical Equipment"
+      },
+      "0035": {
+        "Description": "Massage Tools - Wellness Devices"
+      },
+      "0036": {
+        "Description": "Aromatherapy - Wellness Devices"
+      },
+      "0037": {
+        "Description": "Sleep Aids - Wellness Devices"
+      },
+      "0038": {
+        "Description": "Light Therapy Devices - Wellness Devices"
+      },
+      "0039": {
+        "Description": "Heating Pads - Wellness Devices"
+      },
+      "0040": {
+        "Description": "Face Masks - Protective Equipment"
+      },
+      "0041": {
+        "Description": "Hand Sanitizer - Protective Equipment"
+      },
+      "0042": {
+        "Description": "Face Shields - Protective Equipment"
+      },
+      "0043": {
+        "Description": "Goggles - Protective Equipment"
+      },
+      "0044": {
+        "Description": "Protective Clothing - Protective Equipment"
+      },
+      "0045": {
+        "Description": "TENS Units - Rehab & Therapy"
+      },
+      "0046": {
+        "Description": "Foam Rollers - Rehab & Therapy"
+      },
+      "0047": {
+        "Description": "Therapy Bands - Rehab & Therapy"
+      },
+      "0048": {
+        "Description": "Hot/Cold Packs - Rehab & Therapy"
+      },
+      "0049": {
+        "Description": "Rehab Kits - Rehab & Therapy"
+      },
+      "0050": {
+        "Description": "Special Medical Product 50"
+      },
+      "0051": {
+        "Description": "Special Medical Product 51"
+      },
+      "0052": {
+        "Description": "Special Medical Product 52"
+      },
+      "0053": {
+        "Description": "Special Medical Product 53"
+      },
+      "0054": {
+        "Description": "Special Medical Product 54"
+      },
+      "0055": {
+        "Description": "Special Medical Product 55"
+      },
+      "0056": {
+        "Description": "Special Medical Product 56"
+      },
+      "0057": {
+        "Description": "Special Medical Product 57"
+      },
+      "0058": {
+        "Description": "Special Medical Product 58"
+      },
+      "0059": {
+        "Description": "Special Medical Product 59"
+      },
+      "0060": {
+        "Description": "Special Medical Product 60"
+      },
+      "0061": {
+        "Description": "Special Medical Product 61"
+      },
+      "0062": {
+        "Description": "Special Medical Product 62"
+      },
+      "0063": {
+        "Description": "Special Medical Product 63"
+      },
+      "0064": {
+        "Description": "Special Medical Product 64"
+      },
+      "0065": {
+        "Description": "Special Medical Product 65"
+      },
+      "0066": {
+        "Description": "Special Medical Product 66"
+      },
+      "0067": {
+        "Description": "Special Medical Product 67"
+      },
+      "0068": {
+        "Description": "Special Medical Product 68"
+      },
+      "0069": {
+        "Description": "Special Medical Product 69"
+      },
+      "0070": {
+        "Description": "Special Medical Product 70"
+      },
+      "0071": {
+        "Description": "Special Medical Product 71"
+      },
+      "0072": {
+        "Description": "Special Medical Product 72"
+      },
+      "0073": {
+        "Description": "Special Medical Product 73"
+      },
+      "0074": {
+        "Description": "Special Medical Product 74"
+      },
+      "0075": {
+        "Description": "Special Medical Product 75"
+      },
+      "0076": {
+        "Description": "Special Medical Product 76"
+      },
+      "0077": {
+        "Description": "Special Medical Product 77"
+      },
+      "0078": {
+        "Description": "Special Medical Product 78"
+      },
+      "0079": {
+        "Description": "Special Medical Product 79"
+      },
+      "0080": {
+        "Description": "Special Medical Product 80"
+      },
+      "0081": {
+        "Description": "Special Medical Product 81"
+      },
+      "0082": {
+        "Description": "Special Medical Product 82"
+      },
+      "0083": {
+        "Description": "Special Medical Product 83"
+      },
+      "0084": {
+        "Description": "Special Medical Product 84"
+      },
+      "0085": {
+        "Description": "Special Medical Product 85"
+      },
+      "0086": {
+        "Description": "Special Medical Product 86"
+      },
+      "0087": {
+        "Description": "Special Medical Product 87"
+      },
+      "0088": {
+        "Description": "Special Medical Product 88"
+      },
+      "0089": {
+        "Description": "Special Medical Product 89"
+      },
+      "0090": {
+        "Description": "Special Medical Product 90"
+      },
+      "0091": {
+        "Description": "Special Medical Product 91"
+      },
+      "0092": {
+        "Description": "Special Medical Product 92"
+      },
+      "0093": {
+        "Description": "Special Medical Product 93"
+      },
+      "0094": {
+        "Description": "Special Medical Product 94"
+      },
+      "0095": {
+        "Description": "Special Medical Product 95"
+      },
+      "0096": {
+        "Description": "Special Medical Product 96"
+      },
+      "0097": {
+        "Description": "Special Medical Product 97"
+      },
+      "0098": {
+        "Description": "Special Medical Product 98"
+      },
+      "0099": {
+        "Description": "Special Medical Product 99"
+      }
+    }
+  },
+  "OF": {
+    "Class Name": "Office & Work Supplies",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Pens - Writing Instruments"
+      },
+      "0001": {
+        "Description": "Pencils - Writing Instruments"
+      },
+      "0002": {
+        "Description": "Highlighters - Writing Instruments"
+      },
+      "0003": {
+        "Description": "Markers - Writing Instruments"
+      },
+      "0004": {
+        "Description": "Mechanical Pencils - Writing Instruments"
+      },
+      "0005": {
+        "Description": "Notebooks - Paper Products"
+      },
+      "0006": {
+        "Description": "Sticky Notes - Paper Products"
+      },
+      "0007": {
+        "Description": "Copy Paper - Paper Products"
+      },
+      "0008": {
+        "Description": "Legal Pads - Paper Products"
+      },
+      "0009": {
+        "Description": "Index Cards - Paper Products"
+      },
+      "0010": {
+        "Description": "Staplers - Desk Supplies"
+      },
+      "0011": {
+        "Description": "Tape Dispensers - Desk Supplies"
+      },
+      "0012": {
+        "Description": "Paper Clips - Desk Supplies"
+      },
+      "0013": {
+        "Description": "Scissors - Desk Supplies"
+      },
+      "0014": {
+        "Description": "Rulers - Desk Supplies"
+      },
+      "0015": {
+        "Description": "Binders - Organization"
+      },
+      "0016": {
+        "Description": "Folders - Organization"
+      },
+      "0017": {
+        "Description": "File Cabinets - Organization"
+      },
+      "0018": {
+        "Description": "Storage Boxes - Organization"
+      },
+      "0019": {
+        "Description": "Desk Organizers - Organization"
+      },
+      "0020": {
+        "Description": "USB Drives - Technology Accessories"
+      },
+      "0021": {
+        "Description": "Mouse Pads - Technology Accessories"
+      },
+      "0022": {
+        "Description": "Laptop Stands - Technology Accessories"
+      },
+      "0023": {
+        "Description": "Webcams - Technology Accessories"
+      },
+      "0024": {
+        "Description": "Keyboards - Technology Accessories"
+      },
+      "0025": {
+        "Description": "Desks - Office Furniture"
+      },
+      "0026": {
+        "Description": "Chairs - Office Furniture"
+      },
+      "0027": {
+        "Description": "Standing Desks - Office Furniture"
+      },
+      "0028": {
+        "Description": "Bookcases - Office Furniture"
+      },
+      "0029": {
+        "Description": "Filing Cabinets - Office Furniture"
+      },
+      "0030": {
+        "Description": "Envelopes - Mailing Supplies"
+      },
+      "0031": {
+        "Description": "Shipping Boxes - Mailing Supplies"
+      },
+      "0032": {
+        "Description": "Labels - Mailing Supplies"
+      },
+      "0033": {
+        "Description": "Bubble Wrap - Mailing Supplies"
+      },
+      "0034": {
+        "Description": "Packing Tape - Mailing Supplies"
+      },
+      "0035": {
+        "Description": "Coffee Supplies - Breakroom Supplies"
+      },
+      "0036": {
+        "Description": "Disposable Utensils - Breakroom Supplies"
+      },
+      "0037": {
+        "Description": "Cups & Plates - Breakroom Supplies"
+      },
+      "0038": {
+        "Description": "Cleaning Wipes - Breakroom Supplies"
+      },
+      "0039": {
+        "Description": "Paper Towels - Breakroom Supplies"
+      },
+      "0040": {
+        "Description": "Whiteboards - Presentation Tools"
+      },
+      "0041": {
+        "Description": "Projectors - Presentation Tools"
+      },
+      "0042": {
+        "Description": "Markers & Erasers - Presentation Tools"
+      },
+      "0043": {
+        "Description": "Flip Charts - Presentation Tools"
+      },
+      "0044": {
+        "Description": "Laser Pointers - Presentation Tools"
+      },
+      "0045": {
+        "Description": "Business Cards - Business Essentials"
+      },
+      "0046": {
+        "Description": "Name Tags - Business Essentials"
+      },
+      "0047": {
+        "Description": "Time Clocks - Business Essentials"
+      },
+      "0048": {
+        "Description": "Registers - Business Essentials"
+      },
+      "0049": {
+        "Description": "Receipt Rolls - Business Essentials"
+      },
+      "0050": {
+        "Description": "Special Office Supply 50"
+      },
+      "0051": {
+        "Description": "Special Office Supply 51"
+      },
+      "0052": {
+        "Description": "Special Office Supply 52"
+      },
+      "0053": {
+        "Description": "Special Office Supply 53"
+      },
+      "0054": {
+        "Description": "Special Office Supply 54"
+      },
+      "0055": {
+        "Description": "Special Office Supply 55"
+      },
+      "0056": {
+        "Description": "Special Office Supply 56"
+      },
+      "0057": {
+        "Description": "Special Office Supply 57"
+      },
+      "0058": {
+        "Description": "Special Office Supply 58"
+      },
+      "0059": {
+        "Description": "Special Office Supply 59"
+      },
+      "0060": {
+        "Description": "Special Office Supply 60"
+      },
+      "0061": {
+        "Description": "Special Office Supply 61"
+      },
+      "0062": {
+        "Description": "Special Office Supply 62"
+      },
+      "0063": {
+        "Description": "Special Office Supply 63"
+      },
+      "0064": {
+        "Description": "Special Office Supply 64"
+      },
+      "0065": {
+        "Description": "Special Office Supply 65"
+      },
+      "0066": {
+        "Description": "Special Office Supply 66"
+      },
+      "0067": {
+        "Description": "Special Office Supply 67"
+      },
+      "0068": {
+        "Description": "Special Office Supply 68"
+      },
+      "0069": {
+        "Description": "Special Office Supply 69"
+      },
+      "0070": {
+        "Description": "Special Office Supply 70"
+      },
+      "0071": {
+        "Description": "Special Office Supply 71"
+      },
+      "0072": {
+        "Description": "Special Office Supply 72"
+      },
+      "0073": {
+        "Description": "Special Office Supply 73"
+      },
+      "0074": {
+        "Description": "Special Office Supply 74"
+      },
+      "0075": {
+        "Description": "Special Office Supply 75"
+      },
+      "0076": {
+        "Description": "Special Office Supply 76"
+      },
+      "0077": {
+        "Description": "Special Office Supply 77"
+      },
+      "0078": {
+        "Description": "Special Office Supply 78"
+      },
+      "0079": {
+        "Description": "Special Office Supply 79"
+      },
+      "0080": {
+        "Description": "Special Office Supply 80"
+      },
+      "0081": {
+        "Description": "Special Office Supply 81"
+      },
+      "0082": {
+        "Description": "Special Office Supply 82"
+      },
+      "0083": {
+        "Description": "Special Office Supply 83"
+      },
+      "0084": {
+        "Description": "Special Office Supply 84"
+      },
+      "0085": {
+        "Description": "Special Office Supply 85"
+      },
+      "0086": {
+        "Description": "Special Office Supply 86"
+      },
+      "0087": {
+        "Description": "Special Office Supply 87"
+      },
+      "0088": {
+        "Description": "Special Office Supply 88"
+      },
+      "0089": {
+        "Description": "Special Office Supply 89"
+      },
+      "0090": {
+        "Description": "Special Office Supply 90"
+      },
+      "0091": {
+        "Description": "Special Office Supply 91"
+      },
+      "0092": {
+        "Description": "Special Office Supply 92"
+      },
+      "0093": {
+        "Description": "Special Office Supply 93"
+      },
+      "0094": {
+        "Description": "Special Office Supply 94"
+      },
+      "0095": {
+        "Description": "Special Office Supply 95"
+      },
+      "0096": {
+        "Description": "Special Office Supply 96"
+      },
+      "0097": {
+        "Description": "Special Office Supply 97"
+      },
+      "0098": {
+        "Description": "Special Office Supply 98"
+      },
+      "0099": {
+        "Description": "Special Office Supply 99"
+      }
+    }
+  },
+  "PI": {
+    "Class Name": "Personal Items",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Toothpaste - Hygiene"
+      },
+      "0001": {
+        "Description": "Toothbrush - Hygiene"
+      },
+      "0002": {
+        "Description": "Deodorant - Hygiene"
+      },
+      "0003": {
+        "Description": "Body Wash - Hygiene"
+      },
+      "0004": {
+        "Description": "Shampoo - Hygiene"
+      },
+      "0005": {
+        "Description": "Conditioner - Hygiene"
+      },
+      "0006": {
+        "Description": "Moisturizer - Skincare"
+      },
+      "0007": {
+        "Description": "Sunscreen - Skincare"
+      },
+      "0008": {
+        "Description": "Facial Cleanser - Skincare"
+      },
+      "0009": {
+        "Description": "Serums - Skincare"
+      },
+      "0010": {
+        "Description": "Face Masks - Skincare"
+      },
+      "0011": {
+        "Description": "Hair Gel - Haircare"
+      },
+      "0012": {
+        "Description": "Hair Spray - Haircare"
+      },
+      "0013": {
+        "Description": "Hair Oil - Haircare"
+      },
+      "0014": {
+        "Description": "Combs & Brushes - Haircare"
+      },
+      "0015": {
+        "Description": "Hair Accessories - Haircare"
+      },
+      "0016": {
+        "Description": "Razors - Personal Grooming"
+      },
+      "0017": {
+        "Description": "Shaving Cream - Personal Grooming"
+      },
+      "0018": {
+        "Description": "Nail Clippers - Personal Grooming"
+      },
+      "0019": {
+        "Description": "Tweezers - Personal Grooming"
+      },
+      "0020": {
+        "Description": "Lotion - Personal Grooming"
+      },
+      "0021": {
+        "Description": "Foundation - Cosmetics"
+      },
+      "0022": {
+        "Description": "Lipstick - Cosmetics"
+      },
+      "0023": {
+        "Description": "Mascara - Cosmetics"
+      },
+      "0024": {
+        "Description": "Eyeliner - Cosmetics"
+      },
+      "0025": {
+        "Description": "Blush - Cosmetics"
+      },
+      "0026": {
+        "Description": "Perfume - Fragrances"
+      },
+      "0027": {
+        "Description": "Cologne - Fragrances"
+      },
+      "0028": {
+        "Description": "Body Spray - Fragrances"
+      },
+      "0029": {
+        "Description": "Essential Oils - Fragrances"
+      },
+      "0030": {
+        "Description": "Roll-ons - Fragrances"
+      },
+      "0031": {
+        "Description": "Thermometers - Health Essentials"
+      },
+      "0032": {
+        "Description": "Pain Relievers - Health Essentials"
+      },
+      "0033": {
+        "Description": "Cold Meds - Health Essentials"
+      },
+      "0034": {
+        "Description": "Hand Sanitizer - Health Essentials"
+      },
+      "0035": {
+        "Description": "Disinfecting Wipes - Health Essentials"
+      },
+      "0036": {
+        "Description": "Wallets - Accessories"
+      },
+      "0037": {
+        "Description": "Watches - Accessories"
+      },
+      "0038": {
+        "Description": "Jewelry - Accessories"
+      },
+      "0039": {
+        "Description": "Sunglasses - Accessories"
+      },
+      "0040": {
+        "Description": "Umbrellas - Accessories"
+      },
+      "0041": {
+        "Description": "Fitness Bands - Wearables"
+      },
+      "0042": {
+        "Description": "Smartwatches - Wearables"
+      },
+      "0043": {
+        "Description": "Smart Rings - Wearables"
+      },
+      "0044": {
+        "Description": "Sleep Trackers - Wearables"
+      },
+      "0045": {
+        "Description": "Condoms - Sexual Health"
+      },
+      "0046": {
+        "Description": "Lubricants - Sexual Health"
+      },
+      "0047": {
+        "Description": "Pregnancy Tests - Sexual Health"
+      },
+      "0048": {
+        "Description": "Menstrual Cups - Sexual Health"
+      },
+      "0049": {
+        "Description": "Intimacy Devices - Sexual Health"
+      },
+      "0050": {
+        "Description": "Special Personal Item 50"
+      },
+      "0051": {
+        "Description": "Special Personal Item 51"
+      },
+      "0052": {
+        "Description": "Special Personal Item 52"
+      },
+      "0053": {
+        "Description": "Special Personal Item 53"
+      },
+      "0054": {
+        "Description": "Special Personal Item 54"
+      },
+      "0055": {
+        "Description": "Special Personal Item 55"
+      },
+      "0056": {
+        "Description": "Special Personal Item 56"
+      },
+      "0057": {
+        "Description": "Special Personal Item 57"
+      },
+      "0058": {
+        "Description": "Special Personal Item 58"
+      },
+      "0059": {
+        "Description": "Special Personal Item 59"
+      },
+      "0060": {
+        "Description": "Special Personal Item 60"
+      },
+      "0061": {
+        "Description": "Special Personal Item 61"
+      },
+      "0062": {
+        "Description": "Special Personal Item 62"
+      },
+      "0063": {
+        "Description": "Special Personal Item 63"
+      },
+      "0064": {
+        "Description": "Special Personal Item 64"
+      },
+      "0065": {
+        "Description": "Special Personal Item 65"
+      },
+      "0066": {
+        "Description": "Special Personal Item 66"
+      },
+      "0067": {
+        "Description": "Special Personal Item 67"
+      },
+      "0068": {
+        "Description": "Special Personal Item 68"
+      },
+      "0069": {
+        "Description": "Special Personal Item 69"
+      },
+      "0070": {
+        "Description": "Special Personal Item 70"
+      },
+      "0071": {
+        "Description": "Special Personal Item 71"
+      },
+      "0072": {
+        "Description": "Special Personal Item 72"
+      },
+      "0073": {
+        "Description": "Special Personal Item 73"
+      },
+      "0074": {
+        "Description": "Special Personal Item 74"
+      },
+      "0075": {
+        "Description": "Special Personal Item 75"
+      },
+      "0076": {
+        "Description": "Special Personal Item 76"
+      },
+      "0077": {
+        "Description": "Special Personal Item 77"
+      },
+      "0078": {
+        "Description": "Special Personal Item 78"
+      },
+      "0079": {
+        "Description": "Special Personal Item 79"
+      },
+      "0080": {
+        "Description": "Special Personal Item 80"
+      },
+      "0081": {
+        "Description": "Special Personal Item 81"
+      },
+      "0082": {
+        "Description": "Special Personal Item 82"
+      },
+      "0083": {
+        "Description": "Special Personal Item 83"
+      },
+      "0084": {
+        "Description": "Special Personal Item 84"
+      },
+      "0085": {
+        "Description": "Special Personal Item 85"
+      },
+      "0086": {
+        "Description": "Special Personal Item 86"
+      },
+      "0087": {
+        "Description": "Special Personal Item 87"
+      },
+      "0088": {
+        "Description": "Special Personal Item 88"
+      },
+      "0089": {
+        "Description": "Special Personal Item 89"
+      },
+      "0090": {
+        "Description": "Special Personal Item 90"
+      },
+      "0091": {
+        "Description": "Special Personal Item 91"
+      },
+      "0092": {
+        "Description": "Special Personal Item 92"
+      },
+      "0093": {
+        "Description": "Special Personal Item 93"
+      },
+      "0094": {
+        "Description": "Special Personal Item 94"
+      },
+      "0095": {
+        "Description": "Special Personal Item 95"
+      },
+      "0096": {
+        "Description": "Special Personal Item 96"
+      },
+      "0097": {
+        "Description": "Special Personal Item 97"
+      },
+      "0098": {
+        "Description": "Special Personal Item 98"
+      },
+      "0099": {
+        "Description": "Special Personal Item 99"
+      }
+    }
+  },
+  "PT": {
+    "Class Name": "Pet Supplies",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Dry Dog Food - Pet Food"
+      },
+      "0001": {
+        "Description": "Wet Dog Food - Pet Food"
+      },
+      "0002": {
+        "Description": "Dry Cat Food - Pet Food"
+      },
+      "0003": {
+        "Description": "Wet Cat Food - Pet Food"
+      },
+      "0004": {
+        "Description": "Special Diet Food - Pet Food"
+      },
+      "0005": {
+        "Description": "Dog Treats - Treats & Chews"
+      },
+      "0006": {
+        "Description": "Cat Treats - Treats & Chews"
+      },
+      "0007": {
+        "Description": "Dental Chews - Treats & Chews"
+      },
+      "0008": {
+        "Description": "Training Treats - Treats & Chews"
+      },
+      "0009": {
+        "Description": "Rawhide - Treats & Chews"
+      },
+      "0010": {
+        "Description": "Chew Toys - Toys"
+      },
+      "0011": {
+        "Description": "Interactive Toys - Toys"
+      },
+      "0012": {
+        "Description": "Catnip Toys - Toys"
+      },
+      "0013": {
+        "Description": "Balls & Fetch Toys - Toys"
+      },
+      "0014": {
+        "Description": "Puzzle Toys - Toys"
+      },
+      "0015": {
+        "Description": "Flea & Tick Treatments - Health & Wellness"
+      },
+      "0016": {
+        "Description": "Vitamins & Supplements - Health & Wellness"
+      },
+      "0017": {
+        "Description": "Pet First Aid - Health & Wellness"
+      },
+      "0018": {
+        "Description": "Ear Cleaners - Health & Wellness"
+      },
+      "0019": {
+        "Description": "Eye Drops - Health & Wellness"
+      },
+      "0020": {
+        "Description": "Shampoo - Grooming"
+      },
+      "0021": {
+        "Description": "Brushes - Grooming"
+      },
+      "0022": {
+        "Description": "Nail Clippers - Grooming"
+      },
+      "0023": {
+        "Description": "Wipes - Grooming"
+      },
+      "0024": {
+        "Description": "Hair Trimmers - Grooming"
+      },
+      "0025": {
+        "Description": "Pet Beds - Beds & Furniture"
+      },
+      "0026": {
+        "Description": "Cat Trees - Beds & Furniture"
+      },
+      "0027": {
+        "Description": "Dog Crates - Beds & Furniture"
+      },
+      "0028": {
+        "Description": "Carriers - Beds & Furniture"
+      },
+      "0029": {
+        "Description": "Playpens - Beds & Furniture"
+      },
+      "0030": {
+        "Description": "Dog Collars - Leashes & Collars"
+      },
+      "0031": {
+        "Description": "Harnesses - Leashes & Collars"
+      },
+      "0032": {
+        "Description": "Leashes - Leashes & Collars"
+      },
+      "0033": {
+        "Description": "ID Tags - Leashes & Collars"
+      },
+      "0034": {
+        "Description": "Retractable Leashes - Leashes & Collars"
+      },
+      "0035": {
+        "Description": "Bowls - Feeding Supplies"
+      },
+      "0036": {
+        "Description": "Automatic Feeders - Feeding Supplies"
+      },
+      "0037": {
+        "Description": "Water Fountains - Feeding Supplies"
+      },
+      "0038": {
+        "Description": "Food Storage - Feeding Supplies"
+      },
+      "0039": {
+        "Description": "Mat Trays - Feeding Supplies"
+      },
+      "0040": {
+        "Description": "Cat Litter - Litter & Waste"
+      },
+      "0041": {
+        "Description": "Litter Boxes - Litter & Waste"
+      },
+      "0042": {
+        "Description": "Waste Bags - Litter & Waste"
+      },
+      "0043": {
+        "Description": "Pooper Scoopers - Litter & Waste"
+      },
+      "0044": {
+        "Description": "Training Pads - Litter & Waste"
+      },
+      "0045": {
+        "Description": "Pet Seat Belts - Travel & Safety"
+      },
+      "0046": {
+        "Description": "Travel Carriers - Travel & Safety"
+      },
+      "0047": {
+        "Description": "Safety Gates - Travel & Safety"
+      },
+      "0048": {
+        "Description": "Pet Backpacks - Travel & Safety"
+      },
+      "0049": {
+        "Description": "Cooling Vests - Travel & Safety"
+      },
+      "0050": {
+        "Description": "Special Pet Item 50"
+      },
+      "0051": {
+        "Description": "Special Pet Item 51"
+      },
+      "0052": {
+        "Description": "Special Pet Item 52"
+      },
+      "0053": {
+        "Description": "Special Pet Item 53"
+      },
+      "0054": {
+        "Description": "Special Pet Item 54"
+      },
+      "0055": {
+        "Description": "Special Pet Item 55"
+      },
+      "0056": {
+        "Description": "Special Pet Item 56"
+      },
+      "0057": {
+        "Description": "Special Pet Item 57"
+      },
+      "0058": {
+        "Description": "Special Pet Item 58"
+      },
+      "0059": {
+        "Description": "Special Pet Item 59"
+      },
+      "0060": {
+        "Description": "Special Pet Item 60"
+      },
+      "0061": {
+        "Description": "Special Pet Item 61"
+      },
+      "0062": {
+        "Description": "Special Pet Item 62"
+      },
+      "0063": {
+        "Description": "Special Pet Item 63"
+      },
+      "0064": {
+        "Description": "Special Pet Item 64"
+      },
+      "0065": {
+        "Description": "Special Pet Item 65"
+      },
+      "0066": {
+        "Description": "Special Pet Item 66"
+      },
+      "0067": {
+        "Description": "Special Pet Item 67"
+      },
+      "0068": {
+        "Description": "Special Pet Item 68"
+      },
+      "0069": {
+        "Description": "Special Pet Item 69"
+      },
+      "0070": {
+        "Description": "Special Pet Item 70"
+      },
+      "0071": {
+        "Description": "Special Pet Item 71"
+      },
+      "0072": {
+        "Description": "Special Pet Item 72"
+      },
+      "0073": {
+        "Description": "Special Pet Item 73"
+      },
+      "0074": {
+        "Description": "Special Pet Item 74"
+      },
+      "0075": {
+        "Description": "Special Pet Item 75"
+      },
+      "0076": {
+        "Description": "Special Pet Item 76"
+      },
+      "0077": {
+        "Description": "Special Pet Item 77"
+      },
+      "0078": {
+        "Description": "Special Pet Item 78"
+      },
+      "0079": {
+        "Description": "Special Pet Item 79"
+      },
+      "0080": {
+        "Description": "Special Pet Item 80"
+      },
+      "0081": {
+        "Description": "Special Pet Item 81"
+      },
+      "0082": {
+        "Description": "Special Pet Item 82"
+      },
+      "0083": {
+        "Description": "Special Pet Item 83"
+      },
+      "0084": {
+        "Description": "Special Pet Item 84"
+      },
+      "0085": {
+        "Description": "Special Pet Item 85"
+      },
+      "0086": {
+        "Description": "Special Pet Item 86"
+      },
+      "0087": {
+        "Description": "Special Pet Item 87"
+      },
+      "0088": {
+        "Description": "Special Pet Item 88"
+      },
+      "0089": {
+        "Description": "Special Pet Item 89"
+      },
+      "0090": {
+        "Description": "Special Pet Item 90"
+      },
+      "0091": {
+        "Description": "Special Pet Item 91"
+      },
+      "0092": {
+        "Description": "Special Pet Item 92"
+      },
+      "0093": {
+        "Description": "Special Pet Item 93"
+      },
+      "0094": {
+        "Description": "Special Pet Item 94"
+      },
+      "0095": {
+        "Description": "Special Pet Item 95"
+      },
+      "0096": {
+        "Description": "Special Pet Item 96"
+      },
+      "0097": {
+        "Description": "Special Pet Item 97"
+      },
+      "0098": {
+        "Description": "Special Pet Item 98"
+      },
+      "0099": {
+        "Description": "Special Pet Item 99"
+      }
+    }
+  },
+  "RE": {
+    "Class Name": "Rent & Housing",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Apartment Rent - Residential Rent"
+      },
+      "0001": {
+        "Description": "House Rent - Residential Rent"
+      },
+      "0002": {
+        "Description": "Studio Rent - Residential Rent"
+      },
+      "0003": {
+        "Description": "Condo Rent - Residential Rent"
+      },
+      "0004": {
+        "Description": "Room Rent - Residential Rent"
+      },
+      "0005": {
+        "Description": "Retail Space Rent - Commercial Rent"
+      },
+      "0006": {
+        "Description": "Office Space Rent - Commercial Rent"
+      },
+      "0007": {
+        "Description": "Warehouse Rent - Commercial Rent"
+      },
+      "0008": {
+        "Description": "Kiosk Rent - Commercial Rent"
+      },
+      "0009": {
+        "Description": "Pop-Up Space Rent - Commercial Rent"
+      },
+      "0010": {
+        "Description": "Auto Lease - Lease Payments"
+      },
+      "0011": {
+        "Description": "Equipment Lease - Lease Payments"
+      },
+      "0012": {
+        "Description": "Furniture Lease - Lease Payments"
+      },
+      "0013": {
+        "Description": "Appliance Lease - Lease Payments"
+      },
+      "0014": {
+        "Description": "Technology Lease - Lease Payments"
+      },
+      "0015": {
+        "Description": "Water - Housing Utilities"
+      },
+      "0016": {
+        "Description": "Gas - Housing Utilities"
+      },
+      "0017": {
+        "Description": "Electricity - Housing Utilities"
+      },
+      "0018": {
+        "Description": "Sewer - Housing Utilities"
+      },
+      "0019": {
+        "Description": "Trash Service - Housing Utilities"
+      },
+      "0020": {
+        "Description": "HOA Dues - HOA & Property Fees"
+      },
+      "0021": {
+        "Description": "Maintenance Fees - HOA & Property Fees"
+      },
+      "0022": {
+        "Description": "Community Amenities Fee - HOA & Property Fees"
+      },
+      "0023": {
+        "Description": "Security Services - HOA & Property Fees"
+      },
+      "0024": {
+        "Description": "Residential Deposit - Security Deposits"
+      },
+      "0025": {
+        "Description": "Commercial Deposit - Security Deposits"
+      },
+      "0026": {
+        "Description": "Key Deposit - Security Deposits"
+      },
+      "0027": {
+        "Description": "Cleaning Deposit - Security Deposits"
+      },
+      "0028": {
+        "Description": "Pet Deposit - Security Deposits"
+      },
+      "0029": {
+        "Description": "Hotel Rent - Lodging & Temporary Stay"
+      },
+      "0030": {
+        "Description": "Extended Stay - Lodging & Temporary Stay"
+      },
+      "0031": {
+        "Description": "Short-Term Rental - Lodging & Temporary Stay"
+      },
+      "0032": {
+        "Description": "Vacation Home Rental - Lodging & Temporary Stay"
+      },
+      "0033": {
+        "Description": "Airbnb - Lodging & Temporary Stay"
+      },
+      "0034": {
+        "Description": "Rental Application Fee - Rental Services"
+      },
+      "0035": {
+        "Description": "Tenant Screening Fee - Rental Services"
+      },
+      "0036": {
+        "Description": "Move-In Fee - Rental Services"
+      },
+      "0037": {
+        "Description": "Late Rent Fee - Rental Services"
+      },
+      "0038": {
+        "Description": "Lease Renewal Fee - Rental Services"
+      },
+      "0039": {
+        "Description": "Property Management Fee - Property Management"
+      },
+      "0040": {
+        "Description": "On-site Staff Fee - Property Management"
+      },
+      "0041": {
+        "Description": "Leasing Agent Fee - Property Management"
+      },
+      "0042": {
+        "Description": "Inspection Fee - Property Management"
+      },
+      "0043": {
+        "Description": "Eviction Processing - Property Management"
+      },
+      "0044": {
+        "Description": "Subsidized Housing - Housing Support"
+      },
+      "0045": {
+        "Description": "Emergency Housing - Housing Support"
+      },
+      "0046": {
+        "Description": "Shelter Fee - Housing Support"
+      },
+      "0047": {
+        "Description": "Veterans Housing - Housing Support"
+      },
+      "0048": {
+        "Description": "Government Housing Programs - Housing Support"
+      },
+      "0049": {
+        "Description": "Special Rent/Housing Item 49"
+      },
+      "0050": {
+        "Description": "Special Rent/Housing Item 50"
+      },
+      "0051": {
+        "Description": "Special Rent/Housing Item 51"
+      },
+      "0052": {
+        "Description": "Special Rent/Housing Item 52"
+      },
+      "0053": {
+        "Description": "Special Rent/Housing Item 53"
+      },
+      "0054": {
+        "Description": "Special Rent/Housing Item 54"
+      },
+      "0055": {
+        "Description": "Special Rent/Housing Item 55"
+      },
+      "0056": {
+        "Description": "Special Rent/Housing Item 56"
+      },
+      "0057": {
+        "Description": "Special Rent/Housing Item 57"
+      },
+      "0058": {
+        "Description": "Special Rent/Housing Item 58"
+      },
+      "0059": {
+        "Description": "Special Rent/Housing Item 59"
+      },
+      "0060": {
+        "Description": "Special Rent/Housing Item 60"
+      },
+      "0061": {
+        "Description": "Special Rent/Housing Item 61"
+      },
+      "0062": {
+        "Description": "Special Rent/Housing Item 62"
+      },
+      "0063": {
+        "Description": "Special Rent/Housing Item 63"
+      },
+      "0064": {
+        "Description": "Special Rent/Housing Item 64"
+      },
+      "0065": {
+        "Description": "Special Rent/Housing Item 65"
+      },
+      "0066": {
+        "Description": "Special Rent/Housing Item 66"
+      },
+      "0067": {
+        "Description": "Special Rent/Housing Item 67"
+      },
+      "0068": {
+        "Description": "Special Rent/Housing Item 68"
+      },
+      "0069": {
+        "Description": "Special Rent/Housing Item 69"
+      },
+      "0070": {
+        "Description": "Special Rent/Housing Item 70"
+      },
+      "0071": {
+        "Description": "Special Rent/Housing Item 71"
+      },
+      "0072": {
+        "Description": "Special Rent/Housing Item 72"
+      },
+      "0073": {
+        "Description": "Special Rent/Housing Item 73"
+      },
+      "0074": {
+        "Description": "Special Rent/Housing Item 74"
+      },
+      "0075": {
+        "Description": "Special Rent/Housing Item 75"
+      },
+      "0076": {
+        "Description": "Special Rent/Housing Item 76"
+      },
+      "0077": {
+        "Description": "Special Rent/Housing Item 77"
+      },
+      "0078": {
+        "Description": "Special Rent/Housing Item 78"
+      },
+      "0079": {
+        "Description": "Special Rent/Housing Item 79"
+      },
+      "0080": {
+        "Description": "Special Rent/Housing Item 80"
+      },
+      "0081": {
+        "Description": "Special Rent/Housing Item 81"
+      },
+      "0082": {
+        "Description": "Special Rent/Housing Item 82"
+      },
+      "0083": {
+        "Description": "Special Rent/Housing Item 83"
+      },
+      "0084": {
+        "Description": "Special Rent/Housing Item 84"
+      },
+      "0085": {
+        "Description": "Special Rent/Housing Item 85"
+      },
+      "0086": {
+        "Description": "Special Rent/Housing Item 86"
+      },
+      "0087": {
+        "Description": "Special Rent/Housing Item 87"
+      },
+      "0088": {
+        "Description": "Special Rent/Housing Item 88"
+      },
+      "0089": {
+        "Description": "Special Rent/Housing Item 89"
+      },
+      "0090": {
+        "Description": "Special Rent/Housing Item 90"
+      },
+      "0091": {
+        "Description": "Special Rent/Housing Item 91"
+      },
+      "0092": {
+        "Description": "Special Rent/Housing Item 92"
+      },
+      "0093": {
+        "Description": "Special Rent/Housing Item 93"
+      },
+      "0094": {
+        "Description": "Special Rent/Housing Item 94"
+      },
+      "0095": {
+        "Description": "Special Rent/Housing Item 95"
+      },
+      "0096": {
+        "Description": "Special Rent/Housing Item 96"
+      },
+      "0097": {
+        "Description": "Special Rent/Housing Item 97"
+      },
+      "0098": {
+        "Description": "Special Rent/Housing Item 98"
+      },
+      "0099": {
+        "Description": "Special Rent/Housing Item 99"
+      }
+    }
+  },
+  "SV": {
+    "Class Name": "Services (Other)",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "House Cleaning - Home Services"
+      },
+      "0001": {
+        "Description": "Lawn Care - Home Services"
+      },
+      "0002": {
+        "Description": "Pool Cleaning - Home Services"
+      },
+      "0003": {
+        "Description": "Pest Control - Home Services"
+      },
+      "0004": {
+        "Description": "Handyman Services - Home Services"
+      },
+      "0005": {
+        "Description": "Massage Therapy - Personal Services"
+      },
+      "0006": {
+        "Description": "Life Coaching - Personal Services"
+      },
+      "0007": {
+        "Description": "Tattoo Services - Personal Services"
+      },
+      "0008": {
+        "Description": "Piercing Services - Personal Services"
+      },
+      "0009": {
+        "Description": "Astrology Readings - Personal Services"
+      },
+      "0010": {
+        "Description": "Makeup Artist - Beauty Services"
+      },
+      "0011": {
+        "Description": "Hair Styling - Beauty Services"
+      },
+      "0012": {
+        "Description": "Nail Services - Beauty Services"
+      },
+      "0013": {
+        "Description": "Facials - Beauty Services"
+      },
+      "0014": {
+        "Description": "Waxing - Beauty Services"
+      },
+      "0015": {
+        "Description": "Phone Repair - Repair Services"
+      },
+      "0016": {
+        "Description": "Watch Repair - Repair Services"
+      },
+      "0017": {
+        "Description": "Shoe Repair - Repair Services"
+      },
+      "0018": {
+        "Description": "Tailoring - Repair Services"
+      },
+      "0019": {
+        "Description": "Jewelry Repair - Repair Services"
+      },
+      "0020": {
+        "Description": "Catering - Event Services"
+      },
+      "0021": {
+        "Description": "Photography - Event Services"
+      },
+      "0022": {
+        "Description": "DJ Services - Event Services"
+      },
+      "0023": {
+        "Description": "Event Planning - Event Services"
+      },
+      "0024": {
+        "Description": "Venue Setup - Event Services"
+      },
+      "0025": {
+        "Description": "Computer Repair - Tech Services"
+      },
+      "0026": {
+        "Description": "Data Recovery - Tech Services"
+      },
+      "0027": {
+        "Description": "Web Hosting - Tech Services"
+      },
+      "0028": {
+        "Description": "Remote IT Support - Tech Services"
+      },
+      "0029": {
+        "Description": "Software Installation - Tech Services"
+      },
+      "0030": {
+        "Description": "Graphic Design - Freelance & Creative"
+      },
+      "0031": {
+        "Description": "Video Editing - Freelance & Creative"
+      },
+      "0032": {
+        "Description": "Copywriting - Freelance & Creative"
+      },
+      "0033": {
+        "Description": "Voiceover Work - Freelance & Creative"
+      },
+      "0034": {
+        "Description": "Social Media Management - Freelance & Creative"
+      },
+      "0035": {
+        "Description": "Courier Services - Transport & Delivery"
+      },
+      "0036": {
+        "Description": "Moving Services - Transport & Delivery"
+      },
+      "0037": {
+        "Description": "Grocery Delivery - Transport & Delivery"
+      },
+      "0038": {
+        "Description": "Furniture Delivery - Transport & Delivery"
+      },
+      "0039": {
+        "Description": "Ride Coordination - Transport & Delivery"
+      },
+      "0040": {
+        "Description": "Legal Consultation - Consultation"
+      },
+      "0041": {
+        "Description": "Financial Advice - Consultation"
+      },
+      "0042": {
+        "Description": "Business Strategy - Consultation"
+      },
+      "0043": {
+        "Description": "Home Design - Consultation"
+      },
+      "0044": {
+        "Description": "Tax Prep Help - Consultation"
+      },
+      "0045": {
+        "Description": "Notary Public - Specialty"
+      },
+      "0046": {
+        "Description": "Language Translation - Specialty"
+      },
+      "0047": {
+        "Description": "Pet Grooming - Specialty"
+      },
+      "0048": {
+        "Description": "Laundry Services - Specialty"
+      },
+      "0049": {
+        "Description": "Shoe Shining - Specialty"
+      },
+      "0050": {
+        "Description": "Special Service Item 50"
+      },
+      "0051": {
+        "Description": "Special Service Item 51"
+      },
+      "0052": {
+        "Description": "Special Service Item 52"
+      },
+      "0053": {
+        "Description": "Special Service Item 53"
+      },
+      "0054": {
+        "Description": "Special Service Item 54"
+      },
+      "0055": {
+        "Description": "Special Service Item 55"
+      },
+      "0056": {
+        "Description": "Special Service Item 56"
+      },
+      "0057": {
+        "Description": "Special Service Item 57"
+      },
+      "0058": {
+        "Description": "Special Service Item 58"
+      },
+      "0059": {
+        "Description": "Special Service Item 59"
+      },
+      "0060": {
+        "Description": "Special Service Item 60"
+      },
+      "0061": {
+        "Description": "Special Service Item 61"
+      },
+      "0062": {
+        "Description": "Special Service Item 62"
+      },
+      "0063": {
+        "Description": "Special Service Item 63"
+      },
+      "0064": {
+        "Description": "Special Service Item 64"
+      },
+      "0065": {
+        "Description": "Special Service Item 65"
+      },
+      "0066": {
+        "Description": "Special Service Item 66"
+      },
+      "0067": {
+        "Description": "Special Service Item 67"
+      },
+      "0068": {
+        "Description": "Special Service Item 68"
+      },
+      "0069": {
+        "Description": "Special Service Item 69"
+      },
+      "0070": {
+        "Description": "Special Service Item 70"
+      },
+      "0071": {
+        "Description": "Special Service Item 71"
+      },
+      "0072": {
+        "Description": "Special Service Item 72"
+      },
+      "0073": {
+        "Description": "Special Service Item 73"
+      },
+      "0074": {
+        "Description": "Special Service Item 74"
+      },
+      "0075": {
+        "Description": "Special Service Item 75"
+      },
+      "0076": {
+        "Description": "Special Service Item 76"
+      },
+      "0077": {
+        "Description": "Special Service Item 77"
+      },
+      "0078": {
+        "Description": "Special Service Item 78"
+      },
+      "0079": {
+        "Description": "Special Service Item 79"
+      },
+      "0080": {
+        "Description": "Special Service Item 80"
+      },
+      "0081": {
+        "Description": "Special Service Item 81"
+      },
+      "0082": {
+        "Description": "Special Service Item 82"
+      },
+      "0083": {
+        "Description": "Special Service Item 83"
+      },
+      "0084": {
+        "Description": "Special Service Item 84"
+      },
+      "0085": {
+        "Description": "Special Service Item 85"
+      },
+      "0086": {
+        "Description": "Special Service Item 86"
+      },
+      "0087": {
+        "Description": "Special Service Item 87"
+      },
+      "0088": {
+        "Description": "Special Service Item 88"
+      },
+      "0089": {
+        "Description": "Special Service Item 89"
+      },
+      "0090": {
+        "Description": "Special Service Item 90"
+      },
+      "0091": {
+        "Description": "Special Service Item 91"
+      },
+      "0092": {
+        "Description": "Special Service Item 92"
+      },
+      "0093": {
+        "Description": "Special Service Item 93"
+      },
+      "0094": {
+        "Description": "Special Service Item 94"
+      },
+      "0095": {
+        "Description": "Special Service Item 95"
+      },
+      "0096": {
+        "Description": "Special Service Item 96"
+      },
+      "0097": {
+        "Description": "Special Service Item 97"
+      },
+      "0098": {
+        "Description": "Special Service Item 98"
+      },
+      "0099": {
+        "Description": "Special Service Item 99"
+      }
+    }
+  },
+  "TR": {
+    "Class Name": "Transportation",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Bus Fare - Public Transit"
+      },
+      "0001": {
+        "Description": "Subway Fare - Public Transit"
+      },
+      "0002": {
+        "Description": "Light Rail Fare - Public Transit"
+      },
+      "0003": {
+        "Description": "Train Fare - Public Transit"
+      },
+      "0004": {
+        "Description": "Transit Pass - Public Transit"
+      },
+      "0005": {
+        "Description": "Rideshare Fare - Rideshare & Taxis"
+      },
+      "0006": {
+        "Description": "Taxi Fare - Rideshare & Taxis"
+      },
+      "0007": {
+        "Description": "Premium Ride - Rideshare & Taxis"
+      },
+      "0008": {
+        "Description": "Shared Ride - Rideshare & Taxis"
+      },
+      "0009": {
+        "Description": "Tips & Surcharges - Rideshare & Taxis"
+      },
+      "0010": {
+        "Description": "Gasoline - Fuel & Charging"
+      },
+      "0011": {
+        "Description": "Diesel - Fuel & Charging"
+      },
+      "0012": {
+        "Description": "Electric Charging - Fuel & Charging"
+      },
+      "0013": {
+        "Description": "Hydrogen Fuel - Fuel & Charging"
+      },
+      "0014": {
+        "Description": "Fuel Rewards - Fuel & Charging"
+      },
+      "0015": {
+        "Description": "Car Wash - Vehicle Services"
+      },
+      "0016": {
+        "Description": "Oil Change - Vehicle Services"
+      },
+      "0017": {
+        "Description": "Brake Service - Vehicle Services"
+      },
+      "0018": {
+        "Description": "Tire Rotation - Vehicle Services"
+      },
+      "0019": {
+        "Description": "Inspection Fees - Vehicle Services"
+      },
+      "0020": {
+        "Description": "Windshield Wipers - Auto Parts"
+      },
+      "0021": {
+        "Description": "Tires - Auto Parts"
+      },
+      "0022": {
+        "Description": "Batteries - Auto Parts"
+      },
+      "0023": {
+        "Description": "Spark Plugs - Auto Parts"
+      },
+      "0024": {
+        "Description": "Headlights - Auto Parts"
+      },
+      "0025": {
+        "Description": "Street Parking - Parking"
+      },
+      "0026": {
+        "Description": "Garage Parking - Parking"
+      },
+      "0027": {
+        "Description": "Valet Service - Parking"
+      },
+      "0028": {
+        "Description": "Parking Meter Fees - Parking"
+      },
+      "0029": {
+        "Description": "Monthly Parking - Parking"
+      },
+      "0030": {
+        "Description": "Highway Toll - Tolls & Passes"
+      },
+      "0031": {
+        "Description": "Bridge Toll - Tolls & Passes"
+      },
+      "0032": {
+        "Description": "Tunnel Toll - Tolls & Passes"
+      },
+      "0033": {
+        "Description": "Express Pass - Tolls & Passes"
+      },
+      "0034": {
+        "Description": "Parking Pass - Tolls & Passes"
+      },
+      "0035": {
+        "Description": "Electric Scooter Rental - Micromobility"
+      },
+      "0036": {
+        "Description": "Bike Share - Micromobility"
+      },
+      "0037": {
+        "Description": "Skateboard Rental - Micromobility"
+      },
+      "0038": {
+        "Description": "Hoverboard Rental - Micromobility"
+      },
+      "0039": {
+        "Description": "Helmet Rental - Micromobility"
+      },
+      "0040": {
+        "Description": "Airfare - Travel & Transit"
+      },
+      "0041": {
+        "Description": "Train Tickets - Travel & Transit"
+      },
+      "0042": {
+        "Description": "Bus Tickets - Travel & Transit"
+      },
+      "0043": {
+        "Description": "Cruise Fare - Travel & Transit"
+      },
+      "0044": {
+        "Description": "Travel Insurance - Travel & Transit"
+      },
+      "0045": {
+        "Description": "Package Shipping - Freight & Delivery"
+      },
+      "0046": {
+        "Description": "Freight Trucking - Freight & Delivery"
+      },
+      "0047": {
+        "Description": "Courier Services - Freight & Delivery"
+      },
+      "0048": {
+        "Description": "Logistics Fees - Freight & Delivery"
+      },
+      "0049": {
+        "Description": "Cargo Handling - Freight & Delivery"
+      },
+      "0050": {
+        "Description": "Special Transportation Item 50"
+      },
+      "0051": {
+        "Description": "Special Transportation Item 51"
+      },
+      "0052": {
+        "Description": "Special Transportation Item 52"
+      },
+      "0053": {
+        "Description": "Special Transportation Item 53"
+      },
+      "0054": {
+        "Description": "Special Transportation Item 54"
+      },
+      "0055": {
+        "Description": "Special Transportation Item 55"
+      },
+      "0056": {
+        "Description": "Special Transportation Item 56"
+      },
+      "0057": {
+        "Description": "Special Transportation Item 57"
+      },
+      "0058": {
+        "Description": "Special Transportation Item 58"
+      },
+      "0059": {
+        "Description": "Special Transportation Item 59"
+      },
+      "0060": {
+        "Description": "Special Transportation Item 60"
+      },
+      "0061": {
+        "Description": "Special Transportation Item 61"
+      },
+      "0062": {
+        "Description": "Special Transportation Item 62"
+      },
+      "0063": {
+        "Description": "Special Transportation Item 63"
+      },
+      "0064": {
+        "Description": "Special Transportation Item 64"
+      },
+      "0065": {
+        "Description": "Special Transportation Item 65"
+      },
+      "0066": {
+        "Description": "Special Transportation Item 66"
+      },
+      "0067": {
+        "Description": "Special Transportation Item 67"
+      },
+      "0068": {
+        "Description": "Special Transportation Item 68"
+      },
+      "0069": {
+        "Description": "Special Transportation Item 69"
+      },
+      "0070": {
+        "Description": "Special Transportation Item 70"
+      },
+      "0071": {
+        "Description": "Special Transportation Item 71"
+      },
+      "0072": {
+        "Description": "Special Transportation Item 72"
+      },
+      "0073": {
+        "Description": "Special Transportation Item 73"
+      },
+      "0074": {
+        "Description": "Special Transportation Item 74"
+      },
+      "0075": {
+        "Description": "Special Transportation Item 75"
+      },
+      "0076": {
+        "Description": "Special Transportation Item 76"
+      },
+      "0077": {
+        "Description": "Special Transportation Item 77"
+      },
+      "0078": {
+        "Description": "Special Transportation Item 78"
+      },
+      "0079": {
+        "Description": "Special Transportation Item 79"
+      },
+      "0080": {
+        "Description": "Special Transportation Item 80"
+      },
+      "0081": {
+        "Description": "Special Transportation Item 81"
+      },
+      "0082": {
+        "Description": "Special Transportation Item 82"
+      },
+      "0083": {
+        "Description": "Special Transportation Item 83"
+      },
+      "0084": {
+        "Description": "Special Transportation Item 84"
+      },
+      "0085": {
+        "Description": "Special Transportation Item 85"
+      },
+      "0086": {
+        "Description": "Special Transportation Item 86"
+      },
+      "0087": {
+        "Description": "Special Transportation Item 87"
+      },
+      "0088": {
+        "Description": "Special Transportation Item 88"
+      },
+      "0089": {
+        "Description": "Special Transportation Item 89"
+      },
+      "0090": {
+        "Description": "Special Transportation Item 90"
+      },
+      "0091": {
+        "Description": "Special Transportation Item 91"
+      },
+      "0092": {
+        "Description": "Special Transportation Item 92"
+      },
+      "0093": {
+        "Description": "Special Transportation Item 93"
+      },
+      "0094": {
+        "Description": "Special Transportation Item 94"
+      },
+      "0095": {
+        "Description": "Special Transportation Item 95"
+      },
+      "0096": {
+        "Description": "Special Transportation Item 96"
+      },
+      "0097": {
+        "Description": "Special Transportation Item 97"
+      },
+      "0098": {
+        "Description": "Special Transportation Item 98"
+      },
+      "0099": {
+        "Description": "Special Transportation Item 99"
+      }
+    }
+  },
+  "TX": {
+    "Class Name": "Taxes",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "State Sales Tax - Sales Tax"
+      },
+      "0001": {
+        "Description": "County Sales Tax - Sales Tax"
+      },
+      "0002": {
+        "Description": "City Sales Tax - Sales Tax"
+      },
+      "0003": {
+        "Description": "Online Purchase Tax - Sales Tax"
+      },
+      "0004": {
+        "Description": "Marketplace Facilitator Tax - Sales Tax"
+      },
+      "0005": {
+        "Description": "Federal Income Tax - Income Tax"
+      },
+      "0006": {
+        "Description": "State Income Tax - Income Tax"
+      },
+      "0007": {
+        "Description": "City Income Tax - Income Tax"
+      },
+      "0008": {
+        "Description": "Self-Employment Tax - Income Tax"
+      },
+      "0009": {
+        "Description": "Quarterly Estimated Tax - Income Tax"
+      },
+      "0010": {
+        "Description": "Residential Property Tax - Property Tax"
+      },
+      "0011": {
+        "Description": "Commercial Property Tax - Property Tax"
+      },
+      "0012": {
+        "Description": "Land Tax - Property Tax"
+      },
+      "0013": {
+        "Description": "Rental Property Tax - Property Tax"
+      },
+      "0014": {
+        "Description": "Mobile Home Tax - Property Tax"
+      },
+      "0015": {
+        "Description": "Vehicle Registration Tax - Vehicle Tax"
+      },
+      "0016": {
+        "Description": "Vehicle Use Tax - Vehicle Tax"
+      },
+      "0017": {
+        "Description": "Vehicle Excise Tax - Vehicle Tax"
+      },
+      "0018": {
+        "Description": "Vehicle Sales Tax - Vehicle Tax"
+      },
+      "0019": {
+        "Description": "Luxury Vehicle Tax - Vehicle Tax"
+      },
+      "0020": {
+        "Description": "Corporate Income Tax - Business Tax"
+      },
+      "0021": {
+        "Description": "Franchise Tax - Business Tax"
+      },
+      "0022": {
+        "Description": "Gross Receipts Tax - Business Tax"
+      },
+      "0023": {
+        "Description": "Business License Tax - Business Tax"
+      },
+      "0024": {
+        "Description": "Occupation Tax - Business Tax"
+      },
+      "0025": {
+        "Description": "Alcohol Excise Tax - Excise Tax"
+      },
+      "0026": {
+        "Description": "Tobacco Excise Tax - Excise Tax"
+      },
+      "0027": {
+        "Description": "Fuel Excise Tax - Excise Tax"
+      },
+      "0028": {
+        "Description": "Cannabis Excise Tax - Excise Tax"
+      },
+      "0029": {
+        "Description": "Firearms Excise Tax - Excise Tax"
+      },
+      "0030": {
+        "Description": "Social Security Tax - Payroll Tax"
+      },
+      "0031": {
+        "Description": "Medicare Tax - Payroll Tax"
+      },
+      "0032": {
+        "Description": "Unemployment Insurance Tax - Payroll Tax"
+      },
+      "0033": {
+        "Description": "FICA Tax - Payroll Tax"
+      },
+      "0034": {
+        "Description": "Local Payroll Tax - Payroll Tax"
+      },
+      "0035": {
+        "Description": "Hotel Tax - Tourism & Hospitality Tax"
+      },
+      "0036": {
+        "Description": "Rental Car Tax - Tourism & Hospitality Tax"
+      },
+      "0037": {
+        "Description": "Resort Fee Tax - Tourism & Hospitality Tax"
+      },
+      "0038": {
+        "Description": "Entertainment Tax - Tourism & Hospitality Tax"
+      },
+      "0039": {
+        "Description": "Short-Term Rental Tax - Tourism & Hospitality Tax"
+      },
+      "0040": {
+        "Description": "Import Duty - Import & Export"
+      },
+      "0041": {
+        "Description": "Export Duty - Import & Export"
+      },
+      "0042": {
+        "Description": "Tariffs - Import & Export"
+      },
+      "0043": {
+        "Description": "Border Tax - Import & Export"
+      },
+      "0044": {
+        "Description": "Customs Fees - Import & Export"
+      },
+      "0045": {
+        "Description": "Environmental Tax - Miscellaneous Taxes"
+      },
+      "0046": {
+        "Description": "Digital Goods Tax - Miscellaneous Taxes"
+      },
+      "0047": {
+        "Description": "Luxury Goods Tax - Miscellaneous Taxes"
+      },
+      "0048": {
+        "Description": "Amusement Tax - Miscellaneous Taxes"
+      },
+      "0049": {
+        "Description": "Use Tax - Miscellaneous Taxes"
+      },
+      "0050": {
+        "Description": "Special Tax Item 50"
+      },
+      "0051": {
+        "Description": "Special Tax Item 51"
+      },
+      "0052": {
+        "Description": "Special Tax Item 52"
+      },
+      "0053": {
+        "Description": "Special Tax Item 53"
+      },
+      "0054": {
+        "Description": "Special Tax Item 54"
+      },
+      "0055": {
+        "Description": "Special Tax Item 55"
+      },
+      "0056": {
+        "Description": "Special Tax Item 56"
+      },
+      "0057": {
+        "Description": "Special Tax Item 57"
+      },
+      "0058": {
+        "Description": "Special Tax Item 58"
+      },
+      "0059": {
+        "Description": "Special Tax Item 59"
+      },
+      "0060": {
+        "Description": "Special Tax Item 60"
+      },
+      "0061": {
+        "Description": "Special Tax Item 61"
+      },
+      "0062": {
+        "Description": "Special Tax Item 62"
+      },
+      "0063": {
+        "Description": "Special Tax Item 63"
+      },
+      "0064": {
+        "Description": "Special Tax Item 64"
+      },
+      "0065": {
+        "Description": "Special Tax Item 65"
+      },
+      "0066": {
+        "Description": "Special Tax Item 66"
+      },
+      "0067": {
+        "Description": "Special Tax Item 67"
+      },
+      "0068": {
+        "Description": "Special Tax Item 68"
+      },
+      "0069": {
+        "Description": "Special Tax Item 69"
+      },
+      "0070": {
+        "Description": "Special Tax Item 70"
+      },
+      "0071": {
+        "Description": "Special Tax Item 71"
+      },
+      "0072": {
+        "Description": "Special Tax Item 72"
+      },
+      "0073": {
+        "Description": "Special Tax Item 73"
+      },
+      "0074": {
+        "Description": "Special Tax Item 74"
+      },
+      "0075": {
+        "Description": "Special Tax Item 75"
+      },
+      "0076": {
+        "Description": "Special Tax Item 76"
+      },
+      "0077": {
+        "Description": "Special Tax Item 77"
+      },
+      "0078": {
+        "Description": "Special Tax Item 78"
+      },
+      "0079": {
+        "Description": "Special Tax Item 79"
+      },
+      "0080": {
+        "Description": "Special Tax Item 80"
+      },
+      "0081": {
+        "Description": "Special Tax Item 81"
+      },
+      "0082": {
+        "Description": "Special Tax Item 82"
+      },
+      "0083": {
+        "Description": "Special Tax Item 83"
+      },
+      "0084": {
+        "Description": "Special Tax Item 84"
+      },
+      "0085": {
+        "Description": "Special Tax Item 85"
+      },
+      "0086": {
+        "Description": "Special Tax Item 86"
+      },
+      "0087": {
+        "Description": "Special Tax Item 87"
+      },
+      "0088": {
+        "Description": "Special Tax Item 88"
+      },
+      "0089": {
+        "Description": "Special Tax Item 89"
+      },
+      "0090": {
+        "Description": "Special Tax Item 90"
+      },
+      "0091": {
+        "Description": "Special Tax Item 91"
+      },
+      "0092": {
+        "Description": "Special Tax Item 92"
+      },
+      "0093": {
+        "Description": "Special Tax Item 93"
+      },
+      "0094": {
+        "Description": "Special Tax Item 94"
+      },
+      "0095": {
+        "Description": "Special Tax Item 95"
+      },
+      "0096": {
+        "Description": "Special Tax Item 96"
+      },
+      "0097": {
+        "Description": "Special Tax Item 97"
+      },
+      "0098": {
+        "Description": "Special Tax Item 98"
+      },
+      "0099": {
+        "Description": "Special Tax Item 99"
+      }
+    }
+  },
+  "UT": {
+    "Class Name": "Utilities",
+    "Detail Classifiers": {
+      "0000": {
+        "Description": "Residential Electricity - Electricity"
+      },
+      "0001": {
+        "Description": "Commercial Electricity - Electricity"
+      },
+      "0002": {
+        "Description": "Solar Electricity - Electricity"
+      },
+      "0003": {
+        "Description": "Off-Peak Electricity - Electricity"
+      },
+      "0004": {
+        "Description": "Smart Meter Charges - Electricity"
+      },
+      "0005": {
+        "Description": "Water Utility - Water & Sewer"
+      },
+      "0006": {
+        "Description": "Sewer Utility - Water & Sewer"
+      },
+      "0007": {
+        "Description": "Stormwater Fees - Water & Sewer"
+      },
+      "0008": {
+        "Description": "Well Water Services - Water & Sewer"
+      },
+      "0009": {
+        "Description": "Irrigation Charges - Water & Sewer"
+      },
+      "0010": {
+        "Description": "Natural Gas - Gas"
+      },
+      "0011": {
+        "Description": "Propane - Gas"
+      },
+      "0012": {
+        "Description": "Biogas - Gas"
+      },
+      "0013": {
+        "Description": "Heating Gas - Gas"
+      },
+      "0014": {
+        "Description": "Backup Generator Fuel - Gas"
+      },
+      "0015": {
+        "Description": "Residential Internet - Internet & Data"
+      },
+      "0016": {
+        "Description": "Business Internet - Internet & Data"
+      },
+      "0017": {
+        "Description": "Mobile Data - Internet & Data"
+      },
+      "0018": {
+        "Description": "Satellite Internet - Internet & Data"
+      },
+      "0019": {
+        "Description": "Fiber Optic Internet - Internet & Data"
+      },
+      "0020": {
+        "Description": "Landline Service - Telecommunications"
+      },
+      "0021": {
+        "Description": "VoIP Service - Telecommunications"
+      },
+      "0022": {
+        "Description": "Cable TV - Telecommunications"
+      },
+      "0023": {
+        "Description": "Streaming TV Bundles - Telecommunications"
+      },
+      "0024": {
+        "Description": "Long Distance Calls - Telecommunications"
+      },
+      "0025": {
+        "Description": "Trash Pickup - Trash & Recycling"
+      },
+      "0026": {
+        "Description": "Bulk Waste Pickup - Trash & Recycling"
+      },
+      "0027": {
+        "Description": "Recycling Service - Trash & Recycling"
+      },
+      "0028": {
+        "Description": "Green Waste - Trash & Recycling"
+      },
+      "0029": {
+        "Description": "Hazardous Waste Disposal - Trash & Recycling"
+      },
+      "0030": {
+        "Description": "Heating Service - Heating & Cooling"
+      },
+      "0031": {
+        "Description": "Cooling Service - Heating & Cooling"
+      },
+      "0032": {
+        "Description": "HVAC Maintenance Plan - Heating & Cooling"
+      },
+      "0033": {
+        "Description": "Smart Thermostat Fees - Heating & Cooling"
+      },
+      "0034": {
+        "Description": "Climate Control Fee - Heating & Cooling"
+      },
+      "0035": {
+        "Description": "Smart Home Device Subscription - Smart Utilities"
+      },
+      "0036": {
+        "Description": "Energy Monitoring Fees - Smart Utilities"
+      },
+      "0037": {
+        "Description": "Smart Grid Access - Smart Utilities"
+      },
+      "0038": {
+        "Description": "Utility App Charges - Smart Utilities"
+      },
+      "0039": {
+        "Description": "Automation Services - Smart Utilities"
+      },
+      "0040": {
+        "Description": "Well Maintenance - Rural & Off-Grid"
+      },
+      "0041": {
+        "Description": "Tank Refill - Rural & Off-Grid"
+      },
+      "0042": {
+        "Description": "Off-Grid Power Supply - Rural & Off-Grid"
+      },
+      "0043": {
+        "Description": "Satellite Comm Fees - Rural & Off-Grid"
+      },
+      "0044": {
+        "Description": "Remote Utility Access - Rural & Off-Grid"
+      },
+      "0045": {
+        "Description": "Connection Fees - Miscellaneous Utility Fees"
+      },
+      "0046": {
+        "Description": "Late Fees - Miscellaneous Utility Fees"
+      },
+      "0047": {
+        "Description": "Service Deposits - Miscellaneous Utility Fees"
+      },
+      "0048": {
+        "Description": "Reactivation Fees - Miscellaneous Utility Fees"
+      },
+      "0049": {
+        "Description": "Transfer Fees - Miscellaneous Utility Fees"
+      },
+      "0050": {
+        "Description": "Special Utility Item 50"
+      },
+      "0051": {
+        "Description": "Special Utility Item 51"
+      },
+      "0052": {
+        "Description": "Special Utility Item 52"
+      },
+      "0053": {
+        "Description": "Special Utility Item 53"
+      },
+      "0054": {
+        "Description": "Special Utility Item 54"
+      },
+      "0055": {
+        "Description": "Special Utility Item 55"
+      },
+      "0056": {
+        "Description": "Special Utility Item 56"
+      },
+      "0057": {
+        "Description": "Special Utility Item 57"
+      },
+      "0058": {
+        "Description": "Special Utility Item 58"
+      },
+      "0059": {
+        "Description": "Special Utility Item 59"
+      },
+      "0060": {
+        "Description": "Special Utility Item 60"
+      },
+      "0061": {
+        "Description": "Special Utility Item 61"
+      },
+      "0062": {
+        "Description": "Special Utility Item 62"
+      },
+      "0063": {
+        "Description": "Special Utility Item 63"
+      },
+      "0064": {
+        "Description": "Special Utility Item 64"
+      },
+      "0065": {
+        "Description": "Special Utility Item 65"
+      },
+      "0066": {
+        "Description": "Special Utility Item 66"
+      },
+      "0067": {
+        "Description": "Special Utility Item 67"
+      },
+      "0068": {
+        "Description": "Special Utility Item 68"
+      },
+      "0069": {
+        "Description": "Special Utility Item 69"
+      },
+      "0070": {
+        "Description": "Special Utility Item 70"
+      },
+      "0071": {
+        "Description": "Special Utility Item 71"
+      },
+      "0072": {
+        "Description": "Special Utility Item 72"
+      },
+      "0073": {
+        "Description": "Special Utility Item 73"
+      },
+      "0074": {
+        "Description": "Special Utility Item 74"
+      },
+      "0075": {
+        "Description": "Special Utility Item 75"
+      },
+      "0076": {
+        "Description": "Special Utility Item 76"
+      },
+      "0077": {
+        "Description": "Special Utility Item 77"
+      },
+      "0078": {
+        "Description": "Special Utility Item 78"
+      },
+      "0079": {
+        "Description": "Special Utility Item 79"
+      },
+      "0080": {
+        "Description": "Special Utility Item 80"
+      },
+      "0081": {
+        "Description": "Special Utility Item 81"
+      },
+      "0082": {
+        "Description": "Special Utility Item 82"
+      },
+      "0083": {
+        "Description": "Special Utility Item 83"
+      },
+      "0084": {
+        "Description": "Special Utility Item 84"
+      },
+      "0085": {
+        "Description": "Special Utility Item 85"
+      },
+      "0086": {
+        "Description": "Special Utility Item 86"
+      },
+      "0087": {
+        "Description": "Special Utility Item 87"
+      },
+      "0088": {
+        "Description": "Special Utility Item 88"
+      },
+      "0089": {
+        "Description": "Special Utility Item 89"
+      },
+      "0090": {
+        "Description": "Special Utility Item 90"
+      },
+      "0091": {
+        "Description": "Special Utility Item 91"
+      },
+      "0092": {
+        "Description": "Special Utility Item 92"
+      },
+      "0093": {
+        "Description": "Special Utility Item 93"
+      },
+      "0094": {
+        "Description": "Special Utility Item 94"
+      },
+      "0095": {
+        "Description": "Special Utility Item 95"
+      },
+      "0096": {
+        "Description": "Special Utility Item 96"
+      },
+      "0097": {
+        "Description": "Special Utility Item 97"
+      },
+      "0098": {
+        "Description": "Special Utility Item 98"
+      },
+      "0099": {
+        "Description": "Special Utility Item 99"
+      }
+    }
+  }
+}]
